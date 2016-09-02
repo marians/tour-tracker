@@ -1,22 +1,71 @@
+# coding: utf-8
+
 """
-Fetch JSON data for the Tour de France 2016
+Fetch JSON data for an ASO race like the Tour de France 2016
 """
 
 import requests
 import sys
 import json
 import csv
+import argparse
 
+# URI to the current stage
+CURRENT_STAGE = "http://fep-api.dimensiondata.com/race/{race_id}/stages/current"
 
-# This is, funnily, the URI for TdF 2016. Change the '6' to
-# something else to find other ASO stage races.
-STAGES_URI = "http://fep-api.dimensiondata.com/race/6/stages"
+# URI to the list of stages
+STAGES_URI = "http://fep-api.dimensiondata.com/race/{race_id}/stages"
 
-STAGE_URI_TEMPLATE = "http://fep-api.dimensiondata.com/stages/{stage_id:02d}/overallridersclassification"
+# URI to the list of riders
+RIDERS_URI = "http://fep-api.dimensiondata.com/rider/{race_id}"
 
+STAGE_URI_TEMPLATE = "http://fep-api.dimensiondata.com/stages/{stage_id}/classification/overall"
 
-def fetch_stages():
-    r = requests.get(STAGES_URI)
+classifications = {
+    "General": ["position", "time_gap"],
+    "Sprint": ["position", "points"],
+    "Mountain": ["position", "points"],
+    "Youth": ["position", "time_gap"]
+}
+
+# keys on rider data to be deleted
+unwanted_keys = [
+    "Classification",
+    "CombativityClassificationRank",
+    "CombinedClassificationRank",
+    "GeneralClassification",
+    "GeneralClassificationRank",
+    "MountainClassification",
+    "MountainClassificationRank",
+    "SprintClassification",
+    "SprintClassificationRank",
+    "YoungClassification",
+    "YouthClassificationRank",
+]
+
+def fetch_riders(race_id):
+    """
+    Returns a dict of riders, keyed by Bib number
+    """
+    uri = RIDERS_URI.format(race_id=race_id)
+    r = requests.get(uri)
+    data = r.json()
+    riders = {}
+    for item in data:
+        for key in item.keys():
+            if key in unwanted_keys:
+                del item[key]
+        riders[str(item["Id"])] = item
+    return riders
+
+def fetch_current_stage(race_id):
+    uri = CURRENT_STAGE.format(race_id=race_id)
+    r = requests.get(uri)
+    return r.json()
+
+def fetch_stages(race_id):
+    uri = STAGES_URI.format(race_id=race_id)
+    r = requests.get(uri)
     return r.json()
 
 def fetch_stage(stage_id):
@@ -72,108 +121,67 @@ def export_rider_csv(riders, num_stages):
 
 if __name__ == "__main__":
 
-    classification_data = []
+    parser = argparse.ArgumentParser(description='Fetch grand tour classification data')
+    parser.add_argument('race_id', type=int, help='Numeric race ID (6 = Tour def France 2016)')
+    args = parser.parse_args()
 
-    stages = fetch_stages()
+    riders = fetch_riders(args.race_id)
+    current_stage = fetch_current_stage(args.race_id)
+    stages = fetch_stages(args.race_id)
 
-    with open("data/stages.json", "wb") as stagesfile:
-        stagesfile.write(json.dumps(stages, indent=2, sort_keys=True))
+
+    # count real stages (minus rest days)
+    num_stages = 0
+    for stage in stages:
+        if stage["StageNumber"] in ("R1", "R2", "R3"):
+            continue
+        num_stages += 1
+
+    stagecount = -1
 
     for stage in stages:
+
         details = fetch_stage(stage["StageId"])
-        if details[0]["StageId"] != stage["StageId"]:
-            # this stage hasn't happened yet
-            break
+        if stage["StageNumber"] in ("R1", "R2", "R3"):
+            print("Skipping stage '%s'" % stage["StageNumber"])
+            continue
 
-        # clean up data
-        for n in range(len(details)):
+        stagecount += 1
+        print("Processing stage %d ('%s', ID %s)" % (
+            stagecount+1, stage["StageNumber"], stage["StageId"]))
 
-            for key in ["SprintClassification", "MountainClassification"]:
-                if key in details[n]:
-                    rank, points = details[n][key].split(", ")
-                    details[n][key] = {
-                        "rank": int(rank),
-                        "points": int(points)
-                    }
-                    if key + "Rank" in details[n]:
-                        del details[n][key + "Rank"]
+        # map classification development to rider data
+        for cl in classifications.keys():
+            if cl not in details:
+                print("Classification '%s' not available for this race/stage" % cl)
+                continue
+            # iterate riders
+            for rider_cl in details[cl]:
+                bib = str(rider_cl["Bib"])
+                if "classification" not in riders[bib]:
+                    riders[bib]["classification"] = {}
+                if cl.lower() not in riders[bib]["classification"]:
+                    riders[bib]["classification"][cl.lower()] = {}
 
-            if "GeneralClassification" in details[n]:
-                rank, delta, absolute = details[n]["GeneralClassification"].split(", ")
-                details[n]["GeneralClassification"] = {
-                    "rank": int(rank),
-                    "time_delta": time_to_seconds(delta),
-                    "time_absolute": time_to_seconds(absolute)
-                }
-                if "GeneralClassificationRank" in details[n]:
-                    del details[n]["GeneralClassificationRank"]
+                for metric in classifications[cl]:
+                    if metric == "position":
+                        if metric not in riders[bib]["classification"][cl.lower()]:
+                            riders[bib]["classification"][cl.lower()][metric] = [None] * num_stages
+                        riders[bib]["classification"][cl.lower()][metric][stagecount] = rider_cl["Position"]
+                    elif metric == "time_gap":
+                        if metric not in riders[bib]["classification"][cl.lower()]:
+                            riders[bib]["classification"][cl.lower()][metric] = [0] * num_stages
+                        riders[bib]["classification"][cl.lower()][metric][stagecount] = time_to_seconds(rider_cl["Gap"])
+                    elif metric == "points":
+                        if metric not in riders[bib]["classification"][cl.lower()]:
+                            riders[bib]["classification"][cl.lower()][metric] = [0] * num_stages
+                        riders[bib]["classification"][cl.lower()][metric][stagecount] = rider_cl["Points"]
 
-            if "DateOfBirth" in details[n]:
-                details[n]["DateOfBirth"] = details[n]["DateOfBirth"][0:10]
+        if stage["StageId"] == current_stage["StageId"]:
+            if stagecount < (num_stages-1):
+                print("The remaining stages haven't happened yet, so we end here.")
+                break
 
-        classification_data.append(details)
+    with open("data/race_%d.json" % args.race_id, "wb") as output:
+        output.write(json.dumps(riders, indent=2, sort_keys=True))
 
-        filename = "data/stage_classification_{stage_num:02d}.json".format(stage_num=int(stage["StageNumber"]))
-        with open(filename, "wb") as stage_details_file:
-            stage_details_file.write(json.dumps(details, indent=2, sort_keys=True))
-
-
-    # create tabular data per rider
-    riders = {}
-
-    num_stages = len(stages)
-
-    stage_num = 0
-
-    for stage in classification_data:
-        for rider in stage:
-            rider_id = str(rider["Id"])
-
-            # rider base data
-            if rider_id not in riders:
-                riders[rider_id] = {
-                    "first_name": rider["FirstName"],
-                    "last_name": rider["LastName"],
-                    "country": rider["CountryCode"],
-                    "birth_date": rider["DateOfBirth"],
-                    "team": rider["TeamCode"],
-                    "classification": {
-                        "general": {
-                            "rank": [None] * num_stages,
-                            "time_delta": [None] * num_stages,
-                            "time_absolute": [None] * num_stages,
-                        },
-                        "mountain": {
-                            "rank": [None] * num_stages,
-                            "points": [None] * num_stages
-                        },
-                        "sprint": {
-                            "rank": [None] * num_stages,
-                            "points": [None] * num_stages
-                        },
-                        "youth": {
-                            "rank": [None] * num_stages
-                        }
-                    }
-                }
-
-            if "GeneralClassification" in rider:
-                riders[rider_id]["classification"]["general"]["rank"][stage_num] = rider["GeneralClassification"]["rank"]
-                riders[rider_id]["classification"]["general"]["time_delta"][stage_num] = rider["GeneralClassification"]["time_delta"]
-                riders[rider_id]["classification"]["general"]["time_absolute"][stage_num] = rider["GeneralClassification"]["time_absolute"]
-            if "SprintClassification" in rider:
-                riders[rider_id]["classification"]["sprint"]["rank"][stage_num] = rider["SprintClassification"]["rank"]
-                riders[rider_id]["classification"]["sprint"]["points"][stage_num] = rider["SprintClassification"]["points"]
-            if "MountainClassification" in rider:
-                riders[rider_id]["classification"]["mountain"]["rank"][stage_num] = rider["MountainClassification"]["rank"]
-                riders[rider_id]["classification"]["mountain"]["points"][stage_num] = rider["MountainClassification"]["points"]
-            if "YouthClassificationRank" in rider:
-                riders[rider_id]["classification"]["youth"]["rank"][stage_num] = rider["YouthClassificationRank"]
-
-
-        stage_num += 1
-
-    with open("data/riders.json", "wb") as riders_file:
-        riders_file.write(json.dumps(riders, indent=2, sort_keys=True))
-
-    export_rider_csv(riders, stage_num)
