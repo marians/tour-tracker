@@ -2,7 +2,7 @@
 
 Track the general classification development of some _Grand Tours_ organised by ASO, like the Tour De France, stage over stage.
 
-Currently this repository provides a tool to fetch and clean up the classification data, as well as the archived data for past some races.
+Currently this repository provides a tool to fetch and clean up the classification data, as well as the archived data for some past races.
 
 ## Installing dependencies
 
