@@ -1,0 +1,9310 @@
+{
+  "1": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1988-11-23T00:00:00", 
+    "FirstName": "Andrew", 
+    "Id": 1, 
+    "IsWithdrawn": false, 
+    "LastName": "TALANSKY", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/1/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          54, 
+          34, 
+          27, 
+          23, 
+          7, 
+          11, 
+          9, 
+          10
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          43, 
+          43, 
+          68, 
+          127, 
+          159, 
+          257
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4, 
+          7, 
+          7
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          25, 
+          24, 
+          21, 
+          22
+        ]
+      }
+    }
+  }, 
+  "101": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1992-11-06T00:00:00", 
+    "FirstName": "Julian", 
+    "Id": 101, 
+    "IsWithdrawn": true, 
+    "LastName": "ALAPHILIPPE", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/81/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          15, 
+          10, 
+          14, 
+          12, 
+          90, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          18, 
+          18, 
+          1157, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          14, 
+          14, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          10, 
+          11, 
+          null, 
+          null, 
+          null
+        ]
+      }, 
+      "youth": {
+        "position": [
+          6, 
+          4, 
+          2, 
+          2, 
+          17, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          18, 
+          18, 
+          1137, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "102": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1986-03-11T00:00:00", 
+    "FirstName": "Maxime", 
+    "Id": 102, 
+    "IsWithdrawn": true, 
+    "LastName": "BOUET", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/82/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          70, 
+          77, 
+          16, 
+          13, 
+          52, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          18, 
+          18, 
+          645, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "103": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1989-06-05T00:00:00", 
+    "FirstName": "David", 
+    "Id": 103, 
+    "IsWithdrawn": false, 
+    "LastName": "DE LA CRUZ MELGAREJO", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/83/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          66, 
+          84, 
+          17, 
+          14, 
+          18, 
+          15, 
+          13, 
+          13
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          18, 
+          18, 
+          110, 
+          193, 
+          252, 
+          324
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          5, 
+          5
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          22, 
+          22
+        ]
+      }
+    }
+  }, 
+  "104": {
+    "CountryCode": "GER", 
+    "DateOfBirth": "1985-04-23T00:00:00", 
+    "FirstName": "Tony", 
+    "Id": 104, 
+    "IsWithdrawn": true, 
+    "LastName": "MARTIN", 
+    "Nationality": "Germany", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/84/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          28, 
+          33, 
+          15, 
+          69, 
+          101, 
+          46, 
+          67, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          18, 
+          112, 
+          1264, 
+          2026, 
+          3584, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          8
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          22, 
+          34, 
+          16
+        ]
+      }
+    }
+  }, 
+  "105": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1988-11-21T00:00:00", 
+    "FirstName": "Pieter", 
+    "Id": 105, 
+    "IsWithdrawn": true, 
+    "LastName": "SERRY", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/85/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          97, 
+          88, 
+          18, 
+          15, 
+          53, 
+          68, 
+          64, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          18, 
+          18, 
+          645, 
+          2738, 
+          3394, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          25, 
+          28
+        ]
+      }
+    }
+  }, 
+  "106": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1984-05-18T00:00:00", 
+    "FirstName": "Niki", 
+    "Id": 106, 
+    "IsWithdrawn": true, 
+    "LastName": "Terpstra", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/86/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          38, 
+          47, 
+          129, 
+          93, 
+          116, 
+          113, 
+          114, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          385, 
+          385, 
+          1544, 
+          3637, 
+          5195, 
+          0
+        ]
+      }
+    }
+  }, 
+  "107": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1984-04-25T00:00:00", 
+    "FirstName": "Stijn", 
+    "Id": 107, 
+    "IsWithdrawn": true, 
+    "LastName": "VANDENBERGH", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/87/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 7, 
+    "classification": {
+      "general": {
+        "position": [
+          141, 
+          134, 
+          140, 
+          141, 
+          137, 
+          130, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          445, 
+          809, 
+          1802, 
+          3895, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "108": {
+    "CountryCode": "SVK", 
+    "DateOfBirth": "1985-02-21T00:00:00", 
+    "FirstName": "Martin", 
+    "Id": 108, 
+    "IsWithdrawn": true, 
+    "LastName": "VELITS", 
+    "Nationality": "Slovakia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/88/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EQS", 
+    "TeamName": "ETIXX-QUICK STEP", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/6", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          139, 
+          135, 
+          152, 
+          149, 
+          150, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          641, 
+          950, 
+          2075, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "11": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1985-05-20T00:00:00", 
+    "FirstName": "Christopher", 
+    "Id": 11, 
+    "IsWithdrawn": false, 
+    "LastName": "FROOME", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/9/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          16, 
+          20, 
+          24, 
+          21, 
+          5, 
+          7, 
+          2, 
+          1
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          35, 
+          35, 
+          41, 
+          81, 
+          18, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          6, 
+          6, 
+          16, 
+          26
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          7, 
+          10, 
+          5, 
+          2
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          10, 
+          12, 
+          27, 
+          42
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          15, 
+          13, 
+          5, 
+          3
+        ]
+      }
+    }
+  }, 
+  "111": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1986-11-26T00:00:00", 
+    "FirstName": "Bauke", 
+    "Id": 111, 
+    "IsWithdrawn": false, 
+    "LastName": "MOLLEMA", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/89/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          64, 
+          71, 
+          65, 
+          57, 
+          73, 
+          83, 
+          75, 
+          60
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          75, 
+          75, 
+          962, 
+          3055, 
+          3805, 
+          3892
+        ]
+      }
+    }
+  }, 
+  "112": {
+    "CountryCode": "JPN", 
+    "DateOfBirth": "1983-10-04T00:00:00", 
+    "FirstName": "Fumiyuki", 
+    "Id": 112, 
+    "IsWithdrawn": false, 
+    "LastName": "BEPPU", 
+    "Nationality": "Japan", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/90/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          114, 
+          105, 
+          139, 
+          130, 
+          139, 
+          132, 
+          123, 
+          120
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          435, 
+          620, 
+          1856, 
+          3949, 
+          5450, 
+          6842
+        ]
+      }
+    }
+  }, 
+  "113": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1985-09-05T00:00:00", 
+    "FirstName": "Matthew", 
+    "Id": 113, 
+    "IsWithdrawn": false, 
+    "LastName": "BUSCHE", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/91/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          94, 
+          86, 
+          67, 
+          58, 
+          70, 
+          79, 
+          88, 
+          82
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          75, 
+          75, 
+          876, 
+          2969, 
+          4470, 
+          5149
+        ]
+      }
+    }
+  }, 
+  "114": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1980-02-05T00:00:00", 
+    "FirstName": "Markel", 
+    "Id": 114, 
+    "IsWithdrawn": false, 
+    "LastName": "IRIZAR ARRANBURU", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/92/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          101, 
+          104, 
+          107, 
+          83, 
+          97, 
+          102, 
+          102, 
+          106
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          243, 
+          243, 
+          1236, 
+          3329, 
+          4830, 
+          6222
+        ]
+      }
+    }
+  }, 
+  "115": {
+    "CountryCode": "UKR", 
+    "DateOfBirth": "1980-04-01T00:00:00", 
+    "FirstName": "Yaroslav", 
+    "Id": 115, 
+    "IsWithdrawn": true, 
+    "LastName": "POPOVYCH", 
+    "Nationality": "Ukraine", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/93/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalReason": "non partant", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          150, 
+          156, 
+          156, 
+          154, 
+          155, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          408, 
+          663, 
+          1027, 
+          2263, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "116": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Calvin", 
+    "Id": 116, 
+    "IsWithdrawn": true, 
+    "LastName": "WATSON", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/94/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          161, 
+          163, 
+          162, 
+          160, 
+          157, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          718, 
+          852, 
+          1107, 
+          1471, 
+          2464, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "youth": {
+        "position": [
+          29, 
+          30, 
+          30, 
+          30, 
+          29, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          706, 
+          850, 
+          1107, 
+          1471, 
+          2444, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "117": {
+    "CountryCode": "AUT", 
+    "DateOfBirth": "1988-08-04T00:00:00", 
+    "FirstName": "Ricardo", 
+    "Id": 117, 
+    "IsWithdrawn": false, 
+    "LastName": "ZOIDL", 
+    "Nationality": "Austria", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/95/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          75, 
+          82, 
+          66, 
+          71, 
+          64, 
+          74, 
+          56, 
+          58
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          75, 
+          144, 
+          771, 
+          2864, 
+          3049, 
+          3816
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          10, 
+          10
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          11, 
+          13
+        ]
+      }
+    }
+  }, 
+  "118": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1977-01-04T00:00:00", 
+    "FirstName": "Haimar", 
+    "Id": 118, 
+    "IsWithdrawn": false, 
+    "LastName": "ZUBELDIA", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/96/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TFR", 
+    "TeamName": "TREK FACTORY RACING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/21", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          76, 
+          68, 
+          64, 
+          56, 
+          25, 
+          54, 
+          46, 
+          42
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          75, 
+          75, 
+          187, 
+          2280, 
+          2763, 
+          3043
+        ]
+      }
+    }
+  }, 
+  "12": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1991-07-02T00:00:00", 
+    "FirstName": "Ian", 
+    "Id": 12, 
+    "IsWithdrawn": false, 
+    "LastName": "BOSWELL", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/10/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          131, 
+          124, 
+          88, 
+          107, 
+          66, 
+          75, 
+          78, 
+          89
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          203, 
+          502, 
+          829, 
+          2922, 
+          3921, 
+          5313
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          8, 
+          8, 
+          8, 
+          8
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          5, 
+          8, 
+          15, 
+          16
+        ]
+      }, 
+      "youth": {
+        "position": [
+          22, 
+          21, 
+          18, 
+          19, 
+          14, 
+          16, 
+          16, 
+          17
+        ], 
+        "time_gap": [
+          168, 
+          178, 
+          203, 
+          502, 
+          809, 
+          2887, 
+          3832, 
+          5220
+        ]
+      }
+    }
+  }, 
+  "121": {
+    "CountryCode": "COL", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Eduard Alexander", 
+    "Id": 121, 
+    "IsWithdrawn": false, 
+    "LastName": "BELTRAN SUAREZ", 
+    "Nationality": "Colombia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/97/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          119, 
+          128, 
+          144, 
+          155, 
+          99, 
+          82, 
+          68, 
+          61
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          527, 
+          1094, 
+          1254, 
+          3038, 
+          3604, 
+          3934
+        ]
+      }, 
+      "youth": {
+        "position": [
+          21, 
+          22, 
+          25, 
+          28, 
+          20, 
+          17, 
+          13, 
+          11
+        ], 
+        "time_gap": [
+          168, 
+          178, 
+          527, 
+          1094, 
+          1234, 
+          3003, 
+          3515, 
+          3841
+        ]
+      }
+    }
+  }, 
+  "122": {
+    "CountryCode": "DEN", 
+    "DateOfBirth": "1990-10-23T00:00:00", 
+    "FirstName": "Jesper", 
+    "Id": 122, 
+    "IsWithdrawn": true, 
+    "LastName": "HANSEN", 
+    "Nationality": "Denmark", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/98/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalReason": "non partant", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          60, 
+          53, 
+          75, 
+          134, 
+          140, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          90, 
+          657, 
+          1893, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "youth": {
+        "position": [
+          12, 
+          12, 
+          16, 
+          24, 
+          26, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          90, 
+          657, 
+          1873, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "123": {
+    "CountryCode": "CRO", 
+    "DateOfBirth": "1986-09-08T00:00:00", 
+    "FirstName": "Robert", 
+    "Id": 123, 
+    "IsWithdrawn": false, 
+    "LastName": "KISERLOVSKI", 
+    "Nationality": "Croatia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/99/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          34, 
+          41, 
+          74, 
+          65, 
+          24, 
+          16, 
+          14, 
+          14
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          90, 
+          90, 
+          155, 
+          208, 
+          305, 
+          403
+        ]
+      }
+    }
+  }, 
+  "124": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "1992-08-09T00:00:00", 
+    "FirstName": "Jay", 
+    "Id": 124, 
+    "IsWithdrawn": false, 
+    "LastName": "MC CARTHY", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/100/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          7, 
+          8, 
+          72, 
+          63, 
+          62, 
+          73, 
+          80, 
+          66
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          90, 
+          90, 
+          717, 
+          2810, 
+          4072, 
+          4308
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          12, 
+          12, 
+          12, 
+          12, 
+          12, 
+          12, 
+          12, 
+          12
+        ], 
+        "position": [
+          7, 
+          10, 
+          9, 
+          11, 
+          13, 
+          14, 
+          16, 
+          17
+        ]
+      }, 
+      "youth": {
+        "position": [
+          3, 
+          3, 
+          14, 
+          13, 
+          13, 
+          15, 
+          17, 
+          13
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          90, 
+          90, 
+          697, 
+          2775, 
+          3983, 
+          4215
+        ]
+      }
+    }
+  }, 
+  "125": {
+    "CountryCode": "RUS", 
+    "DateOfBirth": "1978-05-25T00:00:00", 
+    "FirstName": "Evgeni", 
+    "Id": 125, 
+    "IsWithdrawn": false, 
+    "LastName": "PETROV", 
+    "Nationality": "Russian Federation", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/101/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          120, 
+          116, 
+          126, 
+          147, 
+          118, 
+          103, 
+          93, 
+          78
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          366, 
+          933, 
+          1560, 
+          3344, 
+          4663, 
+          5103
+        ]
+      }
+    }
+  }, 
+  "126": {
+    "CountryCode": "POR", 
+    "DateOfBirth": "1981-05-15T00:00:00", 
+    "FirstName": "Bruno", 
+    "Id": 126, 
+    "IsWithdrawn": false, 
+    "LastName": "PIRES", 
+    "Nationality": "Portugal", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/102/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          25, 
+          24, 
+          87, 
+          92, 
+          59, 
+          31, 
+          42, 
+          36
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          198, 
+          383, 
+          707, 
+          1000, 
+          2501, 
+          2941
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          3
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          31
+        ]
+      }
+    }
+  }, 
+  "127": {
+    "CountryCode": "POL", 
+    "DateOfBirth": "1990-06-05T00:00:00", 
+    "FirstName": "Pawel", 
+    "Id": 127, 
+    "IsWithdrawn": false, 
+    "LastName": "POLJANSKI", 
+    "Nationality": "Poland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/103/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          23, 
+          15, 
+          73, 
+          64, 
+          26, 
+          55, 
+          36, 
+          28
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          90, 
+          90, 
+          193, 
+          2286, 
+          2348, 
+          2457
+        ]
+      }, 
+      "youth": {
+        "position": [
+          8, 
+          7, 
+          15, 
+          14, 
+          5, 
+          11, 
+          9, 
+          6
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          90, 
+          90, 
+          173, 
+          2251, 
+          2259, 
+          2364
+        ]
+      }
+    }
+  }, 
+  "128": {
+    "CountryCode": "DEN", 
+    "DateOfBirth": "1984-05-09T00:00:00", 
+    "FirstName": "Chris Anker", 
+    "Id": 128, 
+    "IsWithdrawn": false, 
+    "LastName": "SORENSEN", 
+    "Nationality": "Denmark", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/104/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCS", 
+    "TeamName": "TINKOFF-SAXO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/20", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          52, 
+          70, 
+          76, 
+          66, 
+          63, 
+          30, 
+          22, 
+          21
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          90, 
+          90, 
+          717, 
+          998, 
+          1364, 
+          1644
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          14, 
+          14
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          8, 
+          11
+        ]
+      }
+    }
+  }, 
+  "13": {
+    "CountryCode": "IRL", 
+    "DateOfBirth": "1983-07-09T00:00:00", 
+    "FirstName": "Philip", 
+    "Id": 13, 
+    "IsWithdrawn": false, 
+    "LastName": "DEIGNAN", 
+    "Nationality": "Ireland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/11/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          137, 
+          140, 
+          120, 
+          133, 
+          108, 
+          44, 
+          41, 
+          43
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          291, 
+          655, 
+          1443, 
+          2012, 
+          2495, 
+          3155
+        ]
+      }
+    }
+  }, 
+  "131": {
+    "CountryCode": "SUI", 
+    "DateOfBirth": "1986-09-12T00:00:00", 
+    "FirstName": "Mathias", 
+    "Id": 131, 
+    "IsWithdrawn": true, 
+    "LastName": "FRANK", 
+    "Nationality": "Switzerland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/105/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 7, 
+    "classification": {
+      "general": {
+        "position": [
+          30, 
+          29, 
+          35, 
+          30, 
+          9, 
+          25, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          50, 
+          50, 
+          77, 
+          558, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          28, 
+          28, 
+          31, 
+          null
+        ]
+      }
+    }
+  }, 
+  "132": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1982-09-24T00:00:00", 
+    "FirstName": "Stef", 
+    "Id": 132, 
+    "IsWithdrawn": false, 
+    "LastName": "CLEMENT", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/106/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          121, 
+          110, 
+          90, 
+          119, 
+          72, 
+          81, 
+          62, 
+          53
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          218, 
+          582, 
+          934, 
+          3027, 
+          3322, 
+          3563
+        ]
+      }
+    }
+  }, 
+  "133": {
+    "CountryCode": "SUI", 
+    "DateOfBirth": "1985-08-22T00:00:00", 
+    "FirstName": "Reto", 
+    "Id": 133, 
+    "IsWithdrawn": false, 
+    "LastName": "HOLLENSTEIN", 
+    "Nationality": "Switzerland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/107/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          45, 
+          36, 
+          36, 
+          33, 
+          55, 
+          70, 
+          81, 
+          68
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          50, 
+          50, 
+          677, 
+          2770, 
+          4089, 
+          4383
+        ]
+      }
+    }
+  }, 
+  "134": {
+    "CountryCode": "COL", 
+    "DateOfBirth": "1988-11-19T00:00:00", 
+    "FirstName": "Jarlinson", 
+    "Id": 134, 
+    "IsWithdrawn": false, 
+    "LastName": "PANTANO", 
+    "Nationality": "Colombia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/108/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          14, 
+          27, 
+          34, 
+          32, 
+          31, 
+          58, 
+          70, 
+          72
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          50, 
+          50, 
+          226, 
+          2319, 
+          3638, 
+          4538
+        ]
+      }
+    }
+  }, 
+  "135": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1981-07-30T00:00:00", 
+    "FirstName": "Vicente", 
+    "Id": 135, 
+    "IsWithdrawn": true, 
+    "LastName": "REYNES MIMO", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/109/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          102, 
+          103, 
+          130, 
+          116, 
+          119, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          388, 
+          573, 
+          1566, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "136": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "1984-09-30T00:00:00", 
+    "FirstName": "David", 
+    "Id": 136, 
+    "IsWithdrawn": false, 
+    "LastName": "TANNER", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/110/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          37, 
+          35, 
+          113, 
+          84, 
+          89, 
+          96, 
+          100, 
+          97
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          251, 
+          251, 
+          1138, 
+          3231, 
+          4789, 
+          5622
+        ]
+      }
+    }
+  }, 
+  "137": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Jonas", 
+    "Id": 137, 
+    "IsWithdrawn": true, 
+    "LastName": "VAN GENECHTEN", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/111/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          125, 
+          107, 
+          143, 
+          109, 
+          133, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          512, 
+          506, 
+          1742, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          14, 
+          14, 
+          36, 
+          36, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          null, 
+          9, 
+          8, 
+          4, 
+          4, 
+          null, 
+          null, 
+          null
+        ]
+      }
+    }
+  }, 
+  "138": {
+    "CountryCode": "SUI", 
+    "DateOfBirth": "1986-06-25T00:00:00", 
+    "FirstName": "Marcel", 
+    "Id": 138, 
+    "IsWithdrawn": false, 
+    "LastName": "WYSS", 
+    "Nationality": "Switzerland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/112/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "IAM", 
+    "TeamName": "IAM CYCLING", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/8", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          43, 
+          38, 
+          37, 
+          31, 
+          56, 
+          69, 
+          52, 
+          38
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          50, 
+          50, 
+          677, 
+          2770, 
+          2898, 
+          3013
+        ]
+      }
+    }
+  }, 
+  "14": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1989-06-15T00:00:00", 
+    "FirstName": "Peter", 
+    "Id": 14, 
+    "IsWithdrawn": false, 
+    "LastName": "KENNAUGH", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/12/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          1, 
+          1, 
+          19, 
+          16, 
+          16, 
+          51, 
+          49, 
+          57
+        ], 
+        "time_gap": [
+          0, 
+          0, 
+          23, 
+          23, 
+          106, 
+          2199, 
+          2824, 
+          3781
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          25, 
+          25, 
+          25, 
+          25, 
+          25, 
+          25, 
+          25, 
+          25
+        ], 
+        "position": [
+          1, 
+          5, 
+          4, 
+          8, 
+          8, 
+          5, 
+          6, 
+          9
+        ]
+      }
+    }
+  }, 
+  "141": {
+    "CountryCode": "POR", 
+    "DateOfBirth": "1986-05-10T00:00:00", 
+    "FirstName": "Rui Alberto", 
+    "Id": 141, 
+    "IsWithdrawn": false, 
+    "LastName": "FARIA DA COSTA", 
+    "Nationality": "Portugal", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/113/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          20, 
+          17, 
+          29, 
+          25, 
+          22, 
+          2, 
+          4, 
+          3
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          48, 
+          48, 
+          131, 
+          29, 
+          70, 
+          76
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          8, 
+          8, 
+          14
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          7, 
+          14, 
+          8
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          15, 
+          17, 
+          27
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          8, 
+          10, 
+          7
+        ]
+      }
+    }
+  }, 
+  "142": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1983-11-11T00:00:00", 
+    "FirstName": "Matteo", 
+    "Id": 142, 
+    "IsWithdrawn": false, 
+    "LastName": "BONO", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/114/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          146, 
+          148, 
+          137, 
+          104, 
+          109, 
+          108, 
+          109, 
+          101
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          424, 
+          454, 
+          1447, 
+          3540, 
+          5098, 
+          5880
+        ]
+      }
+    }
+  }, 
+  "143": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1987-06-19T00:00:00", 
+    "FirstName": "Sacha", 
+    "Id": 143, 
+    "IsWithdrawn": true, 
+    "LastName": "MODOLO", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/115/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalReason": "Unknown", 
+    "WithdrawalStageId": 2, 
+    "classification": {
+      "general": {
+        "position": [
+          2, 
+          2, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          6, 
+          2, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          22, 
+          42, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          2, 
+          1, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null
+        ]
+      }
+    }
+  }, 
+  "144": {
+    "CountryCode": "POR", 
+    "DateOfBirth": "1989-06-03T00:00:00", 
+    "FirstName": "Nelson", 
+    "Id": 144, 
+    "IsWithdrawn": false, 
+    "LastName": "OLIVEIRA", 
+    "Nationality": "Portugal", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/116/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          40, 
+          44, 
+          30, 
+          26, 
+          81, 
+          90, 
+          95, 
+          93
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          48, 
+          48, 
+          1041, 
+          3134, 
+          4692, 
+          5474
+        ]
+      }
+    }
+  }, 
+  "145": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1980-02-29T00:00:00", 
+    "FirstName": "Ruben", 
+    "Id": 145, 
+    "IsWithdrawn": false, 
+    "LastName": "PLAZA MOLINA", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/117/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          86, 
+          78, 
+          32, 
+          28, 
+          35, 
+          20, 
+          19, 
+          18
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          48, 
+          48, 
+          291, 
+          416, 
+          899, 
+          1214
+        ]
+      }
+    }
+  }, 
+  "146": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1981-10-09T00:00:00", 
+    "FirstName": "Filippo", 
+    "Id": 146, 
+    "IsWithdrawn": true, 
+    "LastName": "POZZATO", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/118/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 7, 
+    "classification": {
+      "general": {
+        "position": [
+          153, 
+          145, 
+          136, 
+          101, 
+          117, 
+          114, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          424, 
+          424, 
+          1549, 
+          3642, 
+          0, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          0
+        ], 
+        "position": [
+          null, 
+          9, 
+          8, 
+          10, 
+          20, 
+          31, 
+          41, 
+          null
+        ]
+      }
+    }
+  }, 
+  "147": {
+    "CountryCode": "COL", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Jos\u00e9", 
+    "Id": 147, 
+    "IsWithdrawn": false, 
+    "LastName": "SERPA SANTANDER", 
+    "Nationality": "Colombia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/119/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          96, 
+          79, 
+          33, 
+          29, 
+          54, 
+          32, 
+          37, 
+          35
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          48, 
+          48, 
+          675, 
+          1035, 
+          2354, 
+          2775
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          1, 
+          1
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          28, 
+          38, 
+          40
+        ]
+      }
+    }
+  }, 
+  "148": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1987-06-25T00:00:00", 
+    "FirstName": "Rafael", 
+    "Id": 148, 
+    "IsWithdrawn": false, 
+    "LastName": "VALLS FERRI", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/120/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LAM", 
+    "TeamName": "LAMPRE - MERIDA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/9", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          57, 
+          52, 
+          31, 
+          27, 
+          15, 
+          12, 
+          12, 
+          11
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          48, 
+          48, 
+          103, 
+          162, 
+          216, 
+          260
+        ]
+      }
+    }
+  }, 
+  "15": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1987-01-10T00:00:00", 
+    "FirstName": "Wouter", 
+    "Id": 15, 
+    "IsWithdrawn": false, 
+    "LastName": "POELS", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/13/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          136, 
+          139, 
+          135, 
+          100, 
+          51, 
+          67, 
+          54, 
+          39
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          422, 
+          422, 
+          631, 
+          2724, 
+          2991, 
+          3027
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          6, 
+          6, 
+          6, 
+          6
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          8, 
+          11, 
+          18, 
+          19
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          3
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          29
+        ]
+      }
+    }
+  }, 
+  "151": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1986-10-10T00:00:00", 
+    "FirstName": "Pierre", 
+    "Id": 151, 
+    "IsWithdrawn": false, 
+    "LastName": "ROLLAND", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/121/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          77, 
+          67, 
+          63, 
+          55, 
+          14, 
+          50, 
+          33, 
+          25
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          68, 
+          68, 
+          95, 
+          2188, 
+          2267, 
+          2303
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          2, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          27, 
+          27, 
+          29, 
+          26
+        ]
+      }
+    }
+  }, 
+  "152": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1987-09-26T00:00:00", 
+    "FirstName": "Cyril", 
+    "Id": 152, 
+    "IsWithdrawn": false, 
+    "LastName": "GAUTIER", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/122/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          10, 
+          12, 
+          70, 
+          60, 
+          60, 
+          72, 
+          82, 
+          67
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          84, 
+          84, 
+          711, 
+          2804, 
+          4123, 
+          4375
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          1
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          43
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          6, 
+          6, 
+          6, 
+          6, 
+          6, 
+          6, 
+          6, 
+          6
+        ], 
+        "position": [
+          10, 
+          15, 
+          14, 
+          17, 
+          22, 
+          20, 
+          24, 
+          23
+        ]
+      }
+    }
+  }, 
+  "153": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1991-03-28T00:00:00", 
+    "FirstName": "ROMAIN", 
+    "Id": 153, 
+    "IsWithdrawn": false, 
+    "LastName": "GUILLEMOIS", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/123/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          138, 
+          137, 
+          151, 
+          151, 
+          153, 
+          140, 
+          130, 
+          122
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          624, 
+          988, 
+          2127, 
+          4220, 
+          5721, 
+          6936
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          3, 
+          3, 
+          3, 
+          3, 
+          3, 
+          3, 
+          3, 
+          3
+        ], 
+        "position": [
+          3, 
+          6, 
+          6, 
+          7, 
+          11, 
+          17, 
+          29, 
+          30
+        ]
+      }, 
+      "youth": {
+        "position": [
+          24, 
+          23, 
+          28, 
+          27, 
+          27, 
+          25, 
+          24, 
+          22
+        ], 
+        "time_gap": [
+          256, 
+          266, 
+          624, 
+          988, 
+          2107, 
+          4185, 
+          5632, 
+          6843
+        ]
+      }
+    }
+  }, 
+  "154": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-04-05T00:00:00", 
+    "FirstName": "Yannick", 
+    "Id": 154, 
+    "IsWithdrawn": true, 
+    "LastName": "MARTINEZ", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/124/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          12, 
+          7, 
+          127, 
+          138, 
+          105, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          368, 
+          732, 
+          1359, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          8, 
+          8, 
+          8, 
+          8, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          null, 
+          14, 
+          13, 
+          16, 
+          20, 
+          null, 
+          null, 
+          null
+        ]
+      }
+    }
+  }, 
+  "155": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-03-17T00:00:00", 
+    "FirstName": "BRYAN", 
+    "Id": 155, 
+    "IsWithdrawn": false, 
+    "LastName": "NAULLEAU", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/125/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          126, 
+          117, 
+          103, 
+          125, 
+          123, 
+          118, 
+          115, 
+          112
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          236, 
+          600, 
+          1593, 
+          3686, 
+          5244, 
+          6459
+        ]
+      }
+    }
+  }, 
+  "156": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1984-04-26T00:00:00", 
+    "FirstName": "Perrig", 
+    "Id": 156, 
+    "IsWithdrawn": false, 
+    "LastName": "QUEMENEUR", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/126/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          85, 
+          100, 
+          80, 
+          108, 
+          87, 
+          94, 
+          97, 
+          91
+        ], 
+        "time_gap": [
+          12, 
+          82, 
+          138, 
+          502, 
+          1129, 
+          3222, 
+          4723, 
+          5383
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          11, 
+          11, 
+          11, 
+          11, 
+          11, 
+          11, 
+          16
+        ], 
+        "position": [
+          null, 
+          2, 
+          2, 
+          2, 
+          4, 
+          5, 
+          10, 
+          6
+        ]
+      }
+    }
+  }, 
+  "157": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-01-01T00:00:00", 
+    "FirstName": "Romain", 
+    "Id": 157, 
+    "IsWithdrawn": false, 
+    "LastName": "SICARD", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/127/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          129, 
+          121, 
+          104, 
+          99, 
+          71, 
+          80, 
+          63, 
+          63
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          236, 
+          421, 
+          912, 
+          3005, 
+          3350, 
+          4110
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          1, 
+          1, 
+          1
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          19, 
+          30, 
+          40, 
+          42
+        ]
+      }
+    }
+  }, 
+  "158": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1979-06-22T00:00:00", 
+    "FirstName": "Thomas", 
+    "Id": 158, 
+    "IsWithdrawn": false, 
+    "LastName": "VOECKLER", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/128/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "EUC", 
+    "TeamName": "TEAM EUROPCAR", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/15", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          127, 
+          126, 
+          105, 
+          126, 
+          124, 
+          119, 
+          116, 
+          98
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          236, 
+          600, 
+          1593, 
+          3686, 
+          5244, 
+          5665
+        ]
+      }
+    }
+  }, 
+  "16": {
+    "CountryCode": "IRL", 
+    "DateOfBirth": "1984-03-07T00:00:00", 
+    "FirstName": "Nicolas", 
+    "Id": 16, 
+    "IsWithdrawn": false, 
+    "LastName": "ROCHE", 
+    "Nationality": "Ireland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/14/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          31, 
+          54, 
+          25, 
+          22, 
+          10, 
+          48, 
+          44, 
+          37
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          35, 
+          35, 
+          85, 
+          2178, 
+          2661, 
+          3009
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          2, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          14, 
+          23, 
+          33, 
+          36
+        ]
+      }
+    }
+  }, 
+  "161": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1983-07-18T00:00:00", 
+    "FirstName": "Daniel", 
+    "Id": 161, 
+    "IsWithdrawn": false, 
+    "LastName": "NAVARRO", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/129/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          81, 
+          85, 
+          78, 
+          68, 
+          29, 
+          18, 
+          16, 
+          16
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          109, 
+          109, 
+          219, 
+          344, 
+          396, 
+          632
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          14, 
+          14
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          7, 
+          10
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          1
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          30, 
+          30
+        ]
+      }
+    }
+  }, 
+  "162": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1990-07-25T00:00:00", 
+    "FirstName": "Nacer", 
+    "Id": 162, 
+    "IsWithdrawn": false, 
+    "LastName": "BOUHANNI", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/130/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          6, 
+          3, 
+          106, 
+          78, 
+          110, 
+          52, 
+          73, 
+          83
+        ], 
+        "time_gap": [
+          12, 
+          2, 
+          238, 
+          228, 
+          1464, 
+          2216, 
+          3774, 
+          5166
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          14, 
+          39, 
+          39, 
+          64, 
+          64, 
+          64, 
+          64, 
+          64
+        ], 
+        "position": [
+          6, 
+          2, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1
+        ]
+      }, 
+      "youth": {
+        "position": [
+          2, 
+          1, 
+          20, 
+          16, 
+          21, 
+          10, 
+          15, 
+          16
+        ], 
+        "time_gap": [
+          0, 
+          0, 
+          238, 
+          228, 
+          1444, 
+          2181, 
+          3685, 
+          5073
+        ]
+      }
+    }
+  }, 
+  "163": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1987-02-12T00:00:00", 
+    "FirstName": "Nicolas", 
+    "Id": 163, 
+    "IsWithdrawn": false, 
+    "LastName": "EDET", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/131/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          124, 
+          125, 
+          117, 
+          132, 
+          127, 
+          107, 
+          79, 
+          90
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          277, 
+          641, 
+          1634, 
+          3418, 
+          3984, 
+          5376
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          36, 
+          38
+        ]
+      }
+    }
+  }, 
+  "164": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1992-11-12T00:00:00", 
+    "FirstName": "Christophe", 
+    "Id": 164, 
+    "IsWithdrawn": false, 
+    "LastName": "LAPORTE", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/132/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          110, 
+          112, 
+          116, 
+          113, 
+          135, 
+          128, 
+          128, 
+          123
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          277, 
+          541, 
+          1777, 
+          3870, 
+          5647, 
+          7039
+        ]
+      }, 
+      "youth": {
+        "position": [
+          20, 
+          19, 
+          22, 
+          21, 
+          24, 
+          23, 
+          22, 
+          23
+        ], 
+        "time_gap": [
+          168, 
+          178, 
+          277, 
+          541, 
+          1757, 
+          3835, 
+          5558, 
+          6946
+        ]
+      }
+    }
+  }, 
+  "165": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1984-03-23T00:00:00", 
+    "FirstName": "Luis Angel", 
+    "Id": 165, 
+    "IsWithdrawn": false, 
+    "LastName": "MATE MARDONES", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/133/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          130, 
+          127, 
+          118, 
+          114, 
+          69, 
+          78, 
+          65, 
+          54
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          277, 
+          541, 
+          865, 
+          2958, 
+          3524, 
+          3648
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          2, 
+          2, 
+          2, 
+          2, 
+          2, 
+          6, 
+          6
+        ], 
+        "position": [
+          null, 
+          7, 
+          7, 
+          9, 
+          15, 
+          24, 
+          19, 
+          20
+        ]
+      }
+    }
+  }, 
+  "166": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1993-10-07T00:00:00", 
+    "FirstName": "Florian", 
+    "Id": 166, 
+    "IsWithdrawn": false, 
+    "LastName": "SENECHAL", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/134/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          157, 
+          158, 
+          147, 
+          148, 
+          154, 
+          141, 
+          138, 
+          131
+        ], 
+        "time_gap": [
+          447, 
+          480, 
+          577, 
+          941, 
+          2177, 
+          4270, 
+          6047, 
+          7439
+        ]
+      }, 
+      "youth": {
+        "position": [
+          28, 
+          28, 
+          27, 
+          26, 
+          28, 
+          26, 
+          25, 
+          24
+        ], 
+        "time_gap": [
+          435, 
+          478, 
+          577, 
+          941, 
+          2157, 
+          4235, 
+          5958, 
+          7346
+        ]
+      }
+    }
+  }, 
+  "167": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1985-04-10T00:00:00", 
+    "FirstName": "Julien", 
+    "Id": 167, 
+    "IsWithdrawn": false, 
+    "LastName": "SIMON", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/135/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          98, 
+          97, 
+          81, 
+          73, 
+          74, 
+          84, 
+          92, 
+          77
+        ], 
+        "time_gap": [
+          43, 
+          43, 
+          140, 
+          170, 
+          971, 
+          3064, 
+          4622, 
+          5012
+        ]
+      }
+    }
+  }, 
+  "168": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-03-22T00:00:00", 
+    "FirstName": "GEOFFREY", 
+    "Id": 168, 
+    "IsWithdrawn": false, 
+    "LastName": "SOUPE", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/136/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "COF", 
+    "TeamName": "COFIDIS SOLUTIONS CREDITS", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/5", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          27, 
+          19, 
+          111, 
+          103, 
+          129, 
+          123, 
+          125, 
+          121
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          248, 
+          433, 
+          1669, 
+          3762, 
+          5539, 
+          6931
+        ]
+      }
+    }
+  }, 
+  "17": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1990-10-03T00:00:00", 
+    "FirstName": "Luke", 
+    "Id": 17, 
+    "IsWithdrawn": true, 
+    "LastName": "ROWE", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/15/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalReason": "non partant", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          135, 
+          155, 
+          145, 
+          144, 
+          136, 
+          129, 
+          129, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          374, 
+          528, 
+          827, 
+          1783, 
+          3876, 
+          5653, 
+          0
+        ]
+      }, 
+      "youth": {
+        "position": [
+          23, 
+          27, 
+          26, 
+          25, 
+          25, 
+          24, 
+          23, 
+          null
+        ], 
+        "time_gap": [
+          256, 
+          372, 
+          528, 
+          827, 
+          1763, 
+          3841, 
+          5564, 
+          0
+        ]
+      }
+    }
+  }, 
+  "171": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1986-01-16T00:00:00", 
+    "FirstName": "Arnold", 
+    "Id": 171, 
+    "IsWithdrawn": true, 
+    "LastName": "JEANNESSON", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/137/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          156, 
+          146, 
+          125, 
+          137, 
+          104, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          352, 
+          716, 
+          1343, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "172": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1989-03-13T00:00:00", 
+    "FirstName": "ARNAUD", 
+    "Id": 172, 
+    "IsWithdrawn": false, 
+    "LastName": "COURTEILLE", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/138/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          122, 
+          153, 
+          133, 
+          95, 
+          106, 
+          41, 
+          55, 
+          44
+        ], 
+        "time_gap": [
+          180, 
+          311, 
+          395, 
+          395, 
+          1388, 
+          1485, 
+          3043, 
+          3167
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          8, 
+          8, 
+          8, 
+          14, 
+          14, 
+          14, 
+          14
+        ], 
+        "position": [
+          null, 
+          3, 
+          3, 
+          3, 
+          3, 
+          4, 
+          6, 
+          9
+        ]
+      }
+    }
+  }, 
+  "173": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1985-06-08T00:00:00", 
+    "FirstName": "Micka\u00ebl", 
+    "Id": 173, 
+    "IsWithdrawn": false, 
+    "LastName": "DELAGE", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/139/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          158, 
+          157, 
+          157, 
+          146, 
+          148, 
+          137, 
+          135, 
+          128
+        ], 
+        "time_gap": [
+          447, 
+          447, 
+          738, 
+          923, 
+          2048, 
+          4141, 
+          5918, 
+          7310
+        ]
+      }
+    }
+  }, 
+  "174": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1991-07-22T00:00:00", 
+    "FirstName": "KENNY", 
+    "Id": 174, 
+    "IsWithdrawn": false, 
+    "LastName": "ELISSONDE", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/140/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          68, 
+          91, 
+          77, 
+          67, 
+          85, 
+          92, 
+          60, 
+          73
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          96, 
+          96, 
+          1089, 
+          3182, 
+          3251, 
+          4643
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          24, 
+          26
+        ]
+      }, 
+      "youth": {
+        "position": [
+          14, 
+          18, 
+          17, 
+          15, 
+          16, 
+          19, 
+          11, 
+          15
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          96, 
+          96, 
+          1069, 
+          3147, 
+          3162, 
+          4550
+        ]
+      }
+    }
+  }, 
+  "175": {
+    "CountryCode": "BRA", 
+    "DateOfBirth": "1979-06-16T00:00:00", 
+    "FirstName": "Murilo Antonio", 
+    "Id": 175, 
+    "IsWithdrawn": true, 
+    "LastName": "FISCHER", 
+    "Nationality": "Brazil", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/141/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          154, 
+          147, 
+          146, 
+          142, 
+          149, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          559, 
+          823, 
+          2059, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "176": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1986-07-19T00:00:00", 
+    "FirstName": "Laurent", 
+    "Id": 176, 
+    "IsWithdrawn": true, 
+    "LastName": "PICHON", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/142/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 2, 
+    "classification": {
+      "general": {
+        "position": [
+          159, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          447, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "177": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-05-18T00:00:00", 
+    "FirstName": "K\u00e9vin", 
+    "Id": 177, 
+    "IsWithdrawn": true, 
+    "LastName": "REZA", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/143/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          123, 
+          113, 
+          115, 
+          86, 
+          100, 
+          104, 
+          112, 
+          null
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          264, 
+          264, 
+          1257, 
+          3350, 
+          5127, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          8, 
+          8, 
+          8, 
+          8, 
+          8
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          15, 
+          19, 
+          19, 
+          20, 
+          20
+        ]
+      }
+    }
+  }, 
+  "178": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1982-05-01T00:00:00", 
+    "FirstName": "Beno\u00eet", 
+    "Id": 178, 
+    "IsWithdrawn": false, 
+    "LastName": "VAUGRENARD", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/144/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "FDJ", 
+    "TeamName": "FDJ", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/7", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          149, 
+          141, 
+          124, 
+          129, 
+          138, 
+          131, 
+          124, 
+          100
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          352, 
+          616, 
+          1852, 
+          3945, 
+          5503, 
+          5833
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          3, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          8, 
+          null, 
+          null, 
+          null
+        ]
+      }
+    }
+  }, 
+  "18": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1987-05-25T00:00:00", 
+    "FirstName": "Ian", 
+    "Id": 18, 
+    "IsWithdrawn": false, 
+    "LastName": "STANNARD", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/16/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "SKY", 
+    "TeamName": "TEAM SKY", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/19", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          56, 
+          30, 
+          83, 
+          72, 
+          68, 
+          77, 
+          83, 
+          99
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          166, 
+          166, 
+          865, 
+          2958, 
+          4277, 
+          5669
+        ]
+      }
+    }
+  }, 
+  "181": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1992-02-20T00:00:00", 
+    "FirstName": "Lawson", 
+    "Id": 181, 
+    "IsWithdrawn": false, 
+    "LastName": "CRADDOCK", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/145/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          18, 
+          45, 
+          69, 
+          59, 
+          30, 
+          57, 
+          69, 
+          69
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          78, 
+          78, 
+          221, 
+          2314, 
+          3633, 
+          4466
+        ]
+      }, 
+      "youth": {
+        "position": [
+          7, 
+          9, 
+          13, 
+          12, 
+          7, 
+          13, 
+          14, 
+          14
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          78, 
+          78, 
+          201, 
+          2279, 
+          3544, 
+          4373
+        ]
+      }
+    }
+  }, 
+  "182": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1987-02-19T00:00:00", 
+    "FirstName": "Caleb", 
+    "Id": 182, 
+    "IsWithdrawn": true, 
+    "LastName": "FAIRLY", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/146/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          166, 
+          164, 
+          163, 
+          161, 
+          161, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          759, 
+          949, 
+          1283, 
+          1647, 
+          2786, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "183": {
+    "CountryCode": "GER", 
+    "DateOfBirth": "1986-03-13T00:00:00", 
+    "FirstName": "Simon", 
+    "Id": 183, 
+    "IsWithdrawn": true, 
+    "LastName": "GESCHKE", 
+    "Nationality": "Germany", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/147/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalReason": "non partant", 
+    "WithdrawalStageId": 4, 
+    "classification": {
+      "general": {
+        "position": [
+          104, 
+          122, 
+          109, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          246, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "184": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1988-08-26T00:00:00", 
+    "FirstName": "Chad", 
+    "Id": 184, 
+    "IsWithdrawn": false, 
+    "LastName": "HAGA", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/148/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          113, 
+          129, 
+          110, 
+          128, 
+          125, 
+          120, 
+          117, 
+          94
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          246, 
+          610, 
+          1603, 
+          3696, 
+          5254, 
+          5477
+        ]
+      }
+    }
+  }, 
+  "185": {
+    "CountryCode": "SWE", 
+    "DateOfBirth": "1991-02-22T00:00:00", 
+    "FirstName": "Tobias", 
+    "Id": 185, 
+    "IsWithdrawn": false, 
+    "LastName": "LUDVIGSSON", 
+    "Nationality": "Sweden", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/149/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          13, 
+          11, 
+          68, 
+          90, 
+          76, 
+          86, 
+          104, 
+          108
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          78, 
+          377, 
+          1004, 
+          3097, 
+          4874, 
+          6266
+        ]
+      }, 
+      "youth": {
+        "position": [
+          5, 
+          5, 
+          12, 
+          18, 
+          15, 
+          18, 
+          19, 
+          20
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          78, 
+          377, 
+          984, 
+          3062, 
+          4785, 
+          6173
+        ]
+      }
+    }
+  }, 
+  "186": {
+    "CountryCode": "SLO", 
+    "DateOfBirth": "1988-06-27T00:00:00", 
+    "FirstName": "Luka", 
+    "Id": 186, 
+    "IsWithdrawn": true, 
+    "LastName": "MEZGEC", 
+    "Nationality": "Slovenia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/150/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          105, 
+          102, 
+          108, 
+          82, 
+          141, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          246, 
+          242, 
+          1972, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          6, 
+          6, 
+          26, 
+          26, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          null, 
+          16, 
+          15, 
+          7, 
+          7, 
+          null, 
+          null, 
+          null
+        ]
+      }
+    }
+  }, 
+  "187": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1985-06-13T00:00:00", 
+    "FirstName": "Albert", 
+    "Id": 187, 
+    "IsWithdrawn": false, 
+    "LastName": "TIMMER", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/151/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TGA", 
+    "TeamName": "TEAM GIANT-ALPECIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/16", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          162, 
+          160, 
+          161, 
+          159, 
+          158, 
+          143, 
+          136, 
+          129
+        ], 
+        "time_gap": [
+          718, 
+          718, 
+          993, 
+          1357, 
+          2516, 
+          4609, 
+          5952, 
+          7344
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          2, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          16, 
+          25, 
+          37, 
+          39
+        ]
+      }
+    }
+  }, 
+  "191": {
+    "CountryCode": "NOR", 
+    "DateOfBirth": "1987-05-17T00:00:00", 
+    "FirstName": "Edvald", 
+    "Id": 191, 
+    "IsWithdrawn": false, 
+    "LastName": "BOASSON HAGEN", 
+    "Nationality": "Norway", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/152/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          3, 
+          5, 
+          55, 
+          49, 
+          83, 
+          91, 
+          96, 
+          81
+        ], 
+        "time_gap": [
+          8, 
+          8, 
+          63, 
+          63, 
+          1056, 
+          3149, 
+          4707, 
+          5128
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          20, 
+          38, 
+          38, 
+          56, 
+          56, 
+          56, 
+          56, 
+          56
+        ], 
+        "position": [
+          3, 
+          3, 
+          2, 
+          2, 
+          2, 
+          2, 
+          2, 
+          2
+        ]
+      }
+    }
+  }, 
+  "192": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1981-03-19T00:00:00", 
+    "FirstName": "Stephen", 
+    "Id": 192, 
+    "IsWithdrawn": false, 
+    "LastName": "CUMMINGS", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/153/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          82, 
+          94, 
+          62, 
+          102, 
+          107, 
+          43, 
+          57, 
+          47
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          67, 
+          431, 
+          1424, 
+          1784, 
+          3103, 
+          3304
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          3, 
+          0, 
+          0, 
+          3
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          9, 
+          null, 
+          null, 
+          27
+        ]
+      }
+    }
+  }, 
+  "193": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1984-06-02T00:00:00", 
+    "FirstName": "Tyler", 
+    "Id": 193, 
+    "IsWithdrawn": false, 
+    "LastName": "FARRAR", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/154/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          144, 
+          142, 
+          154, 
+          145, 
+          142, 
+          133, 
+          132, 
+          125
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          651, 
+          836, 
+          1975, 
+          4068, 
+          5845, 
+          7237
+        ]
+      }
+    }
+  }, 
+  "194": {
+    "CountryCode": "RSA", 
+    "DateOfBirth": "1987-09-06T00:00:00", 
+    "FirstName": "Jacques", 
+    "Id": 194, 
+    "IsWithdrawn": false, 
+    "LastName": "JANSE VAN RENSBURG", 
+    "Nationality": "South Africa", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/155/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          116, 
+          119, 
+          102, 
+          124, 
+          122, 
+          117, 
+          108, 
+          88
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          235, 
+          599, 
+          1592, 
+          3685, 
+          5004, 
+          5308
+        ]
+      }
+    }
+  }, 
+  "195": {
+    "CountryCode": "RSA", 
+    "DateOfBirth": "1989-02-03T00:00:00", 
+    "FirstName": "Reinardt", 
+    "Id": 195, 
+    "IsWithdrawn": false, 
+    "LastName": "JANSE VAN RENSBURG", 
+    "Nationality": "South Africa", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/156/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          26, 
+          60, 
+          93, 
+          77, 
+          95, 
+          100, 
+          103, 
+          107
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          225, 
+          225, 
+          1218, 
+          3311, 
+          4869, 
+          6261
+        ]
+      }
+    }
+  }, 
+  "196": {
+    "CountryCode": "RSA", 
+    "DateOfBirth": "1992-02-21T00:00:00", 
+    "FirstName": "Louis", 
+    "Id": 196, 
+    "IsWithdrawn": false, 
+    "LastName": "MEINTJES", 
+    "Nationality": "South Africa", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/157/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          47, 
+          51, 
+          60, 
+          54, 
+          11, 
+          49, 
+          31, 
+          52
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          67, 
+          67, 
+          87, 
+          2180, 
+          2164, 
+          3556
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          4, 
+          4, 
+          4, 
+          4, 
+          4, 
+          25, 
+          25
+        ], 
+        "position": [
+          null, 
+          5, 
+          5, 
+          5, 
+          9, 
+          14, 
+          2, 
+          3
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          5, 
+          5, 
+          15, 
+          15
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          24, 
+          23, 
+          13, 
+          14
+        ]
+      }, 
+      "youth": {
+        "position": [
+          11, 
+          11, 
+          11, 
+          11, 
+          3, 
+          9, 
+          7, 
+          10
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          67, 
+          67, 
+          67, 
+          2145, 
+          2075, 
+          3463
+        ]
+      }
+    }
+  }, 
+  "197": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1983-11-21T00:00:00", 
+    "FirstName": "Serge", 
+    "Id": 197, 
+    "IsWithdrawn": false, 
+    "LastName": "PAUWELS", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/158/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          33, 
+          37, 
+          59, 
+          52, 
+          43, 
+          64, 
+          77, 
+          62
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          67, 
+          67, 
+          419, 
+          2512, 
+          3831, 
+          4072
+        ]
+      }
+    }
+  }, 
+  "198": {
+    "CountryCode": "ERI", 
+    "DateOfBirth": "1988-11-10T00:00:00", 
+    "FirstName": "Daniel", 
+    "Id": 198, 
+    "IsWithdrawn": false, 
+    "LastName": "TEKLEHAIMANOT", 
+    "Nationality": "Eritrea", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/159/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MTN", 
+    "TeamName": "MTN-QHUBEKA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/12", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          87, 
+          93, 
+          79, 
+          106, 
+          112, 
+          110, 
+          90, 
+          85
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          130, 
+          494, 
+          1487, 
+          3580, 
+          4579, 
+          5239
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          10, 
+          25, 
+          25, 
+          25, 
+          33, 
+          33, 
+          65, 
+          65
+        ], 
+        "position": [
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1
+        ]
+      }
+    }
+  }, 
+  "2": {
+    "CountryCode": "NZL", 
+    "DateOfBirth": "1985-07-04T00:00:00", 
+    "FirstName": "Jack", 
+    "Id": 2, 
+    "IsWithdrawn": false, 
+    "LastName": "BAUER", 
+    "Nationality": "New Zealand", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/2/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          160, 
+          162, 
+          158, 
+          158, 
+          160, 
+          145, 
+          140, 
+          132
+        ], 
+        "time_gap": [
+          718, 
+          811, 
+          842, 
+          1340, 
+          2576, 
+          4669, 
+          6227, 
+          7570
+        ]
+      }
+    }
+  }, 
+  "201": {
+    "CountryCode": "CZE", 
+    "DateOfBirth": "1984-07-12T00:00:00", 
+    "FirstName": "Jan", 
+    "Id": 201, 
+    "IsWithdrawn": false, 
+    "LastName": "BARTA", 
+    "Nationality": "Czech Republic", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/160/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          61, 
+          69, 
+          44, 
+          81, 
+          79, 
+          88, 
+          84, 
+          74
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          239, 
+          1023, 
+          3116, 
+          4335, 
+          4756
+        ]
+      }
+    }
+  }, 
+  "202": {
+    "CountryCode": "GER", 
+    "DateOfBirth": "1992-11-18T00:00:00", 
+    "FirstName": "Emanuel", 
+    "Id": 202, 
+    "IsWithdrawn": false, 
+    "LastName": "BUCHMANN", 
+    "Nationality": "Germany", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/161/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          83, 
+          74, 
+          46, 
+          41, 
+          28, 
+          56, 
+          40, 
+          32
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          200, 
+          2293, 
+          2478, 
+          2646
+        ]
+      }, 
+      "youth": {
+        "position": [
+          16, 
+          16, 
+          7, 
+          7, 
+          6, 
+          12, 
+          10, 
+          7
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          54, 
+          54, 
+          180, 
+          2258, 
+          2389, 
+          2553
+        ]
+      }
+    }
+  }, 
+  "203": {
+    "CountryCode": "POL", 
+    "DateOfBirth": "1980-10-27T00:00:00", 
+    "FirstName": "Bartosz", 
+    "Id": 203, 
+    "IsWithdrawn": false, 
+    "LastName": "HUZARSKI", 
+    "Nationality": "Poland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/162/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          90, 
+          76, 
+          85, 
+          105, 
+          91, 
+          97, 
+          71, 
+          71
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          179, 
+          488, 
+          1169, 
+          3262, 
+          3745, 
+          4530
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          26, 
+          25
+        ]
+      }
+    }
+  }, 
+  "204": {
+    "CountryCode": "POR", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Jos\u00e9 Joao", 
+    "Id": 204, 
+    "IsWithdrawn": false, 
+    "LastName": "PIMANTA COSTA MENDES", 
+    "Nationality": "Portugal", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/163/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          19, 
+          13, 
+          38, 
+          34, 
+          57, 
+          71, 
+          61, 
+          51
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          681, 
+          2774, 
+          3285, 
+          3419
+        ]
+      }
+    }
+  }, 
+  "205": {
+    "CountryCode": "GER", 
+    "DateOfBirth": "1989-08-25T00:00:00", 
+    "FirstName": "Dominik", 
+    "Id": 205, 
+    "IsWithdrawn": true, 
+    "LastName": "NERZ", 
+    "Nationality": "Germany", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/164/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 7, 
+    "classification": {
+      "general": {
+        "position": [
+          50, 
+          25, 
+          42, 
+          38, 
+          44, 
+          65, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          461, 
+          2554, 
+          0, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          0
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          40, 
+          null
+        ]
+      }
+    }
+  }, 
+  "206": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Fabio", 
+    "Id": 206, 
+    "IsWithdrawn": false, 
+    "LastName": "SABATINI", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/165/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          22, 
+          39, 
+          128, 
+          89, 
+          46, 
+          66, 
+          59, 
+          56
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          368, 
+          368, 
+          544, 
+          2637, 
+          3120, 
+          3780
+        ]
+      }
+    }
+  }, 
+  "207": {
+    "CountryCode": "GER", 
+    "DateOfBirth": "1988-07-23T00:00:00", 
+    "FirstName": "Bjorn", 
+    "Id": 207, 
+    "IsWithdrawn": true, 
+    "LastName": "THURAU", 
+    "Nationality": "Germany", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/166/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          36, 
+          22, 
+          41, 
+          36, 
+          34, 
+          61, 
+          50, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          277, 
+          2370, 
+          2853, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          7, 
+          7, 
+          7, 
+          7, 
+          7, 
+          7, 
+          7, 
+          7
+        ], 
+        "position": [
+          2, 
+          4, 
+          4, 
+          4, 
+          6, 
+          9, 
+          16, 
+          16
+        ]
+      }
+    }
+  }, 
+  "208": {
+    "CountryCode": "GER", 
+    "DateOfBirth": "1986-03-26T00:00:00", 
+    "FirstName": "Paul", 
+    "Id": 208, 
+    "IsWithdrawn": false, 
+    "LastName": "VOSS", 
+    "Nationality": "Germany", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/167/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BOA", 
+    "TeamName": "BORA-ARGON 18", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/4", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          48, 
+          21, 
+          40, 
+          37, 
+          27, 
+          23, 
+          26, 
+          23
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          197, 
+          478, 
+          1697, 
+          1784
+        ]
+      }
+    }
+  }, 
+  "21": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1984-11-14T00:00:00", 
+    "FirstName": "Vincenzo", 
+    "Id": 21, 
+    "IsWithdrawn": false, 
+    "LastName": "NIBALI", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/17/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          42, 
+          32, 
+          4, 
+          4, 
+          13, 
+          1, 
+          11, 
+          12
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          4, 
+          4, 
+          93, 
+          0, 
+          185, 
+          272
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          17, 
+          17, 
+          17
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          18, 
+          2, 
+          3, 
+          5
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          12, 
+          12, 
+          12
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          10, 
+          15, 
+          16
+        ]
+      }
+    }
+  }, 
+  "22": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1985-12-30T00:00:00", 
+    "FirstName": "Lars", 
+    "Id": 22, 
+    "IsWithdrawn": false, 
+    "LastName": "BOOM", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/18/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          44, 
+          57, 
+          13, 
+          91, 
+          113, 
+          111, 
+          110, 
+          113
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          16, 
+          380, 
+          1505, 
+          3598, 
+          5099, 
+          6491
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          32
+        ]
+      }
+    }
+  }, 
+  "23": {
+    "CountryCode": "UKR", 
+    "DateOfBirth": "1983-07-08T00:00:00", 
+    "FirstName": "Andriy", 
+    "Id": 23, 
+    "IsWithdrawn": false, 
+    "LastName": "GRIVKO", 
+    "Nationality": "Ukraine", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/19/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          49, 
+          28, 
+          3, 
+          3, 
+          49, 
+          33, 
+          43, 
+          59
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          4, 
+          4, 
+          631, 
+          1056, 
+          2610, 
+          3860
+        ]
+      }
+    }
+  }, 
+  "24": {
+    "CountryCode": "KAZ", 
+    "DateOfBirth": "1986-03-13T00:00:00", 
+    "FirstName": "Dmitriy", 
+    "Id": 24, 
+    "IsWithdrawn": false, 
+    "LastName": "GRUZDEV", 
+    "Nationality": "Kazakhstan", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/20/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          134, 
+          138, 
+          149, 
+          150, 
+          151, 
+          138, 
+          131, 
+          124
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          592, 
+          956, 
+          2095, 
+          4188, 
+          5746, 
+          7138
+        ]
+      }
+    }
+  }, 
+  "25": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1979-09-25T00:00:00", 
+    "FirstName": "Michele", 
+    "Id": 25, 
+    "IsWithdrawn": false, 
+    "LastName": "SCARPONI", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/21/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          74, 
+          65, 
+          7, 
+          6, 
+          4, 
+          47, 
+          34, 
+          27
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          4, 
+          4, 
+          31, 
+          2124, 
+          2309, 
+          2353
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          3, 
+          3, 
+          3, 
+          3
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          26, 
+          26, 
+          28, 
+          28
+        ]
+      }
+    }
+  }, 
+  "26": {
+    "CountryCode": "EST", 
+    "DateOfBirth": "1987-04-24T00:00:00", 
+    "FirstName": "Rein", 
+    "Id": 26, 
+    "IsWithdrawn": false, 
+    "LastName": "TAARAM\u00c4E", 
+    "Nationality": "Estonia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/22/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          58, 
+          63, 
+          6, 
+          7, 
+          65, 
+          34, 
+          27, 
+          40
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          4, 
+          4, 
+          805, 
+          1218, 
+          1839, 
+          3037
+        ]
+      }
+    }
+  }, 
+  "27": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1980-09-16T00:00:00", 
+    "FirstName": "Alessandro", 
+    "Id": 27, 
+    "IsWithdrawn": false, 
+    "LastName": "VANOTTI", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/23/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          106, 
+          118, 
+          132, 
+          139, 
+          144, 
+          134, 
+          127, 
+          118
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          395, 
+          759, 
+          1995, 
+          4088, 
+          5589, 
+          6785
+        ]
+      }
+    }
+  }, 
+  "28": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1982-11-09T00:00:00", 
+    "FirstName": "Lieuwe", 
+    "Id": 28, 
+    "IsWithdrawn": false, 
+    "LastName": "WESTRA", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/24/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "AST", 
+    "TeamName": "ASTANA PRO TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/2", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          29, 
+          50, 
+          5, 
+          5, 
+          50, 
+          29, 
+          39, 
+          48
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          4, 
+          4, 
+          631, 
+          912, 
+          2413, 
+          3313
+        ]
+      }
+    }
+  }, 
+  "3": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "1984-03-12T00:00:00", 
+    "FirstName": "Nathan ", 
+    "Id": 3, 
+    "IsWithdrawn": false, 
+    "LastName": "HAAS", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/3/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          107, 
+          106, 
+          89, 
+          76, 
+          67, 
+          76, 
+          72, 
+          79
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          211, 
+          211, 
+          838, 
+          2931, 
+          3766, 
+          5110
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          35, 
+          37
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          6, 
+          6, 
+          6, 
+          6, 
+          6
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          18, 
+          23, 
+          21, 
+          23, 
+          24
+        ]
+      }
+    }
+  }, 
+  "31": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1991-03-25T00:00:00", 
+    "FirstName": "Wilco", 
+    "Id": 31, 
+    "IsWithdrawn": false, 
+    "LastName": "KELDERMAN", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/25/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          11, 
+          72, 
+          45, 
+          40, 
+          20, 
+          14, 
+          23, 
+          22
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          126, 
+          185, 
+          1504, 
+          1720
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          7
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          18
+        ]
+      }, 
+      "youth": {
+        "position": [
+          4, 
+          15, 
+          6, 
+          6, 
+          4, 
+          3, 
+          4, 
+          4
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          54, 
+          54, 
+          106, 
+          150, 
+          1415, 
+          1627
+        ]
+      }
+    }
+  }, 
+  "32": {
+    "CountryCode": "NZL", 
+    "DateOfBirth": "1990-07-04T00:00:00", 
+    "FirstName": "George", 
+    "Id": 32, 
+    "IsWithdrawn": false, 
+    "LastName": "BENNETT", 
+    "Nationality": "New Zealand", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/26/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          24, 
+          14, 
+          39, 
+          35, 
+          36, 
+          26, 
+          28, 
+          46
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          297, 
+          588, 
+          1907, 
+          3299
+        ]
+      }, 
+      "youth": {
+        "position": [
+          9, 
+          6, 
+          5, 
+          5, 
+          8, 
+          5, 
+          5, 
+          9
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          54, 
+          54, 
+          277, 
+          553, 
+          1818, 
+          3206
+        ]
+      }
+    }
+  }, 
+  "33": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1988-07-04T00:00:00", 
+    "FirstName": "Brian", 
+    "Id": 33, 
+    "IsWithdrawn": true, 
+    "LastName": "BULGAC", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/27/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 5, 
+    "classification": {
+      "general": {
+        "position": [
+          163, 
+          165, 
+          164, 
+          162, 
+          null, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          718, 
+          1541, 
+          1876, 
+          2240, 
+          0, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "34": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1988-03-25T00:00:00", 
+    "FirstName": "Martijn", 
+    "Id": 34, 
+    "IsWithdrawn": false, 
+    "LastName": "KEIZER", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/28/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          112, 
+          114, 
+          92, 
+          94, 
+          102, 
+          105, 
+          113, 
+          96
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          222, 
+          385, 
+          1272, 
+          3365, 
+          5142, 
+          5563
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          2, 
+          2, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          8, 
+          13, 
+          20, 
+          30, 
+          33
+        ]
+      }
+    }
+  }, 
+  "35": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1978-03-12T00:00:00", 
+    "FirstName": "Bram", 
+    "Id": 35, 
+    "IsWithdrawn": false, 
+    "LastName": "TANKINK", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/29/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          39, 
+          64, 
+          43, 
+          39, 
+          42, 
+          63, 
+          74, 
+          84
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          54, 
+          54, 
+          378, 
+          2471, 
+          3790, 
+          5182
+        ]
+      }
+    }
+  }, 
+  "36": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1985-02-18T00:00:00", 
+    "FirstName": "Jos", 
+    "Id": 36, 
+    "IsWithdrawn": false, 
+    "LastName": "VAN EMDEN", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/30/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          115, 
+          111, 
+          91, 
+          120, 
+          111, 
+          109, 
+          111, 
+          114
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          222, 
+          586, 
+          1473, 
+          3566, 
+          5124, 
+          6516
+        ]
+      }
+    }
+  }, 
+  "37": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Rachel", 
+    "Id": 37, 
+    "IsWithdrawn": false, 
+    "LastName": "NEYLAN", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/31/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          117, 
+          108, 
+          148, 
+          118, 
+          120, 
+          115, 
+          122, 
+          119
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          579, 
+          579, 
+          1572, 
+          3665, 
+          5442, 
+          6834
+        ]
+      }
+    }
+  }, 
+  "38": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1982-05-13T00:00:00", 
+    "FirstName": "Maarten", 
+    "Id": 38, 
+    "IsWithdrawn": false, 
+    "LastName": "WYNANTS", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/32/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TLJ", 
+    "TeamName": "TEAM LOTTO NL - JUMBO", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/18", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          142, 
+          154, 
+          155, 
+          153, 
+          145, 
+          135, 
+          133, 
+          126
+        ], 
+        "time_gap": [
+          268, 
+          318, 
+          651, 
+          1015, 
+          2008, 
+          4101, 
+          5878, 
+          7270
+        ]
+      }
+    }
+  }, 
+  "4": {
+    "CountryCode": "SLO", 
+    "DateOfBirth": "1986-11-25T00:00:00", 
+    "FirstName": "Kristijan", 
+    "Id": 4, 
+    "IsWithdrawn": false, 
+    "LastName": "KOREN", 
+    "Nationality": "Slovenia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/4/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          143, 
+          132, 
+          142, 
+          110, 
+          88, 
+          95, 
+          89, 
+          76
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          507, 
+          507, 
+          1134, 
+          3227, 
+          4546, 
+          4967
+        ]
+      }
+    }
+  }, 
+  "41": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1990-09-11T00:00:00", 
+    "FirstName": "Romain", 
+    "Id": 41, 
+    "IsWithdrawn": false, 
+    "LastName": "BARDET", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/33/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          35, 
+          49, 
+          51, 
+          46, 
+          3, 
+          9, 
+          7, 
+          6
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          60, 
+          60, 
+          20, 
+          90, 
+          105, 
+          125
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          15, 
+          15, 
+          16, 
+          17
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          2, 
+          3, 
+          4, 
+          4
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          15, 
+          15, 
+          20, 
+          25
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          10, 
+          9, 
+          8, 
+          8
+        ]
+      }, 
+      "youth": {
+        "position": [
+          10, 
+          10, 
+          10, 
+          10, 
+          1, 
+          2, 
+          2, 
+          2
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          60, 
+          60, 
+          0, 
+          55, 
+          16, 
+          32
+        ]
+      }
+    }
+  }, 
+  "42": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1986-03-17T00:00:00", 
+    "FirstName": "Mikael", 
+    "Id": 42, 
+    "IsWithdrawn": false, 
+    "LastName": "CHEREL", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/34/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          59, 
+          40, 
+          71, 
+          62, 
+          61, 
+          40, 
+          47, 
+          45
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          88, 
+          88, 
+          715, 
+          1467, 
+          2786, 
+          3176
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          1, 
+          1
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          29, 
+          39, 
+          41
+        ]
+      }
+    }
+  }, 
+  "43": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1980-08-20T00:00:00", 
+    "FirstName": "Samuel", 
+    "Id": 43, 
+    "IsWithdrawn": true, 
+    "LastName": "DUMOULIN", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/35/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          9, 
+          4, 
+          119, 
+          87, 
+          114, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          6, 
+          282, 
+          282, 
+          1518, 
+          0, 
+          0, 
+          0
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          8, 
+          30, 
+          30, 
+          42, 
+          42, 
+          0, 
+          0, 
+          0
+        ], 
+        "position": [
+          9, 
+          4, 
+          3, 
+          3, 
+          3, 
+          null, 
+          null, 
+          null
+        ]
+      }
+    }
+  }, 
+  "44": {
+    "CountryCode": "LUX", 
+    "DateOfBirth": "1987-11-14T00:00:00", 
+    "FirstName": "Ben", 
+    "Id": 44, 
+    "IsWithdrawn": false, 
+    "LastName": "GASTAUER", 
+    "Nationality": "Luxembourg", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/36/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          79, 
+          56, 
+          97, 
+          98, 
+          82, 
+          38, 
+          45, 
+          50
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          232, 
+          417, 
+          1044, 
+          1404, 
+          2723, 
+          3383
+        ]
+      }
+    }
+  }, 
+  "45": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1977-05-22T00:00:00", 
+    "FirstName": "Jean-Christophe", 
+    "Id": 45, 
+    "IsWithdrawn": false, 
+    "LastName": "P\u00c9RAUD", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/37/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          73, 
+          92, 
+          53, 
+          48, 
+          58, 
+          35, 
+          29, 
+          31
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          60, 
+          60, 
+          687, 
+          1256, 
+          2091, 
+          2481
+        ]
+      }
+    }
+  }, 
+  "46": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1981-01-17T00:00:00", 
+    "FirstName": "Christophe", 
+    "Id": 46, 
+    "IsWithdrawn": true, 
+    "LastName": "RIBLON", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/38/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          148, 
+          143, 
+          121, 
+          135, 
+          143, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          316, 
+          680, 
+          1993, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "47": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1981-04-02T00:00:00", 
+    "FirstName": "Johan", 
+    "Id": 47, 
+    "IsWithdrawn": false, 
+    "LastName": "VAN SUMMEREN", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/39/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          118, 
+          109, 
+          95, 
+          97, 
+          80, 
+          89, 
+          86, 
+          80
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          228, 
+          413, 
+          1040, 
+          3133, 
+          4452, 
+          5112
+        ]
+      }
+    }
+  }, 
+  "48": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-01-06T00:00:00", 
+    "FirstName": "Alexis", 
+    "Id": 48, 
+    "IsWithdrawn": false, 
+    "LastName": "VUILLERMOZ", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/40/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "ALM", 
+    "TeamName": "AG2R LA MONDIALE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/1", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          55, 
+          58, 
+          52, 
+          47, 
+          21, 
+          53, 
+          32, 
+          29
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          60, 
+          60, 
+          127, 
+          2220, 
+          2242, 
+          2478
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          10, 
+          10
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          12, 
+          14
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          27, 
+          27
+        ]
+      }
+    }
+  }, 
+  "5": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1985-01-17T00:00:00", 
+    "FirstName": "Sebastian", 
+    "Id": 5, 
+    "IsWithdrawn": false, 
+    "LastName": "LANGEVELD", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/5/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          165, 
+          159, 
+          159, 
+          156, 
+          156, 
+          142, 
+          134, 
+          127
+        ], 
+        "time_gap": [
+          718, 
+          718, 
+          964, 
+          1328, 
+          2321, 
+          4414, 
+          5915, 
+          7307
+        ]
+      }
+    }
+  }, 
+  "51": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "1980-05-16T00:00:00", 
+    "FirstName": "Simon", 
+    "Id": 51, 
+    "IsWithdrawn": false, 
+    "LastName": "GERRANS", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/41/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          5, 
+          18, 
+          20, 
+          17, 
+          77, 
+          36, 
+          51, 
+          55
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          23, 
+          23, 
+          1016, 
+          1376, 
+          2877, 
+          3710
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          16, 
+          16, 
+          16, 
+          16, 
+          16, 
+          16, 
+          16, 
+          16
+        ], 
+        "position": [
+          5, 
+          7, 
+          6, 
+          9, 
+          9, 
+          7, 
+          12, 
+          13
+        ]
+      }
+    }
+  }, 
+  "52": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "1992-08-13T00:00:00", 
+    "FirstName": "Damien", 
+    "Id": 52, 
+    "IsWithdrawn": false, 
+    "LastName": "HOWSON", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/42/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          147, 
+          151, 
+          122, 
+          121, 
+          96, 
+          101, 
+          101, 
+          104
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          332, 
+          596, 
+          1223, 
+          3316, 
+          4817, 
+          6209
+        ]
+      }, 
+      "youth": {
+        "position": [
+          27, 
+          26, 
+          23, 
+          22, 
+          18, 
+          20, 
+          18, 
+          18
+        ], 
+        "time_gap": [
+          256, 
+          266, 
+          332, 
+          596, 
+          1203, 
+          3281, 
+          4728, 
+          6116
+        ]
+      }
+    }
+  }, 
+  "53": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1988-11-23T00:00:00", 
+    "FirstName": "Jens", 
+    "Id": 53, 
+    "IsWithdrawn": false, 
+    "LastName": "KEUKELEIRE", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/43/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          46, 
+          16, 
+          86, 
+          74, 
+          92, 
+          98, 
+          99, 
+          92
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          189, 
+          189, 
+          1182, 
+          3275, 
+          4776, 
+          5436
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          12, 
+          12, 
+          12, 
+          12, 
+          12, 
+          12, 
+          12
+        ], 
+        "position": [
+          null, 
+          11, 
+          10, 
+          12, 
+          14, 
+          15, 
+          17, 
+          18
+        ]
+      }
+    }
+  }, 
+  "54": {
+    "CountryCode": "CAN", 
+    "DateOfBirth": "1985-02-21T00:00:00", 
+    "FirstName": "Christian", 
+    "Id": 54, 
+    "IsWithdrawn": false, 
+    "LastName": "MEIER", 
+    "Nationality": "Canada", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/44/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          99, 
+          98, 
+          61, 
+          53, 
+          84, 
+          37, 
+          38, 
+          33
+        ], 
+        "time_gap": [
+          56, 
+          56, 
+          67, 
+          67, 
+          1060, 
+          1379, 
+          2409, 
+          2650
+        ]
+      }
+    }
+  }, 
+  "55": {
+    "CountryCode": "DEN", 
+    "DateOfBirth": "1993-01-16T00:00:00", 
+    "FirstName": "Magnus Cort", 
+    "Id": 55, 
+    "IsWithdrawn": false, 
+    "LastName": "NIELSEN", 
+    "Nationality": "Denmark", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/45/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          103, 
+          120, 
+          96, 
+          111, 
+          134, 
+          127, 
+          105, 
+          109
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          229, 
+          528, 
+          1764, 
+          3857, 
+          4884, 
+          6276
+        ]
+      }, 
+      "youth": {
+        "position": [
+          19, 
+          20, 
+          19, 
+          20, 
+          23, 
+          22, 
+          20, 
+          21
+        ], 
+        "time_gap": [
+          168, 
+          178, 
+          229, 
+          528, 
+          1744, 
+          3822, 
+          4795, 
+          6183
+        ]
+      }
+    }
+  }, 
+  "56": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1984-04-30T00:00:00", 
+    "FirstName": "Ivan", 
+    "Id": 56, 
+    "IsWithdrawn": false, 
+    "LastName": "SANTAROMITA", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/46/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          91, 
+          95, 
+          23, 
+          20, 
+          78, 
+          87, 
+          85, 
+          75
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          23, 
+          23, 
+          1016, 
+          3109, 
+          4428, 
+          4849
+        ]
+      }
+    }
+  }, 
+  "57": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1992-07-08T00:00:00", 
+    "FirstName": "Adam", 
+    "Id": 57, 
+    "IsWithdrawn": false, 
+    "LastName": "YATES", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/47/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          84, 
+          80, 
+          22, 
+          19, 
+          40, 
+          27, 
+          21, 
+          20
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          23, 
+          23, 
+          364, 
+          595, 
+          1345, 
+          1530
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          3, 
+          3, 
+          3
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          16, 
+          28, 
+          29
+        ]
+      }, 
+      "youth": {
+        "position": [
+          17, 
+          17, 
+          4, 
+          4, 
+          9, 
+          6, 
+          3, 
+          3
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          23, 
+          23, 
+          344, 
+          560, 
+          1256, 
+          1437
+        ]
+      }
+    }
+  }, 
+  "58": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1992-07-08T00:00:00", 
+    "FirstName": "Simon", 
+    "Id": 58, 
+    "IsWithdrawn": false, 
+    "LastName": "YATES", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/48/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "OGE", 
+    "TeamName": "ORICA GREENEDGE", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/13", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          65, 
+          42, 
+          21, 
+          18, 
+          6, 
+          4, 
+          5, 
+          5
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          23, 
+          23, 
+          43, 
+          35, 
+          89, 
+          93
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          5, 
+          5, 
+          13
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          12, 
+          20, 
+          12
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          6, 
+          12, 
+          12, 
+          24
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          21, 
+          11, 
+          14, 
+          10
+        ]
+      }, 
+      "youth": {
+        "position": [
+          13, 
+          8, 
+          3, 
+          3, 
+          2, 
+          1, 
+          1, 
+          1
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          23, 
+          23, 
+          23, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "6": {
+    "CountryCode": "IRL", 
+    "DateOfBirth": "1986-08-20T00:00:00", 
+    "FirstName": "Daniel", 
+    "Id": 6, 
+    "IsWithdrawn": false, 
+    "LastName": "MARTIN", 
+    "Nationality": "Ireland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/6/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          63, 
+          73, 
+          28, 
+          24, 
+          8, 
+          10, 
+          8, 
+          7
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          43, 
+          43, 
+          76, 
+          90, 
+          149, 
+          172
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          21, 
+          31, 
+          34
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          5, 
+          5, 
+          9
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          22, 
+          25, 
+          20
+        ]
+      }
+    }
+  }, 
+  "61": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1988-05-24T00:00:00", 
+    "FirstName": "Tony", 
+    "Id": 61, 
+    "IsWithdrawn": false, 
+    "LastName": "GALLOPIN", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/49/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          17, 
+          31, 
+          48, 
+          44, 
+          23, 
+          8, 
+          24, 
+          30
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          59, 
+          59, 
+          142, 
+          89, 
+          1647, 
+          2480
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          13, 
+          23, 
+          24
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          8, 
+          8, 
+          8
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          18, 
+          19, 
+          21
+        ]
+      }
+    }
+  }, 
+  "62": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Tiesj", 
+    "Id": 62, 
+    "IsWithdrawn": false, 
+    "LastName": "BENOOT", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/50/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          4, 
+          6, 
+          47, 
+          42, 
+          45, 
+          24, 
+          30, 
+          26
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          59, 
+          59, 
+          513, 
+          540, 
+          2098, 
+          2334
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          18, 
+          18, 
+          18, 
+          28, 
+          28, 
+          31, 
+          31, 
+          31
+        ], 
+        "position": [
+          4, 
+          6, 
+          5, 
+          6, 
+          6, 
+          4, 
+          4, 
+          6
+        ]
+      }, 
+      "youth": {
+        "position": [
+          1, 
+          2, 
+          8, 
+          8, 
+          10, 
+          4, 
+          6, 
+          5
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          59, 
+          59, 
+          493, 
+          505, 
+          2009, 
+          2241
+        ]
+      }
+    }
+  }, 
+  "63": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1987-02-13T00:00:00", 
+    "FirstName": "Kris", 
+    "Id": 63, 
+    "IsWithdrawn": true, 
+    "LastName": "BOECKMANS", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/51/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 4, 
+    "classification": {
+      "general": {
+        "position": [
+          132, 
+          131, 
+          94, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          227, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "64": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1986-08-26T00:00:00", 
+    "FirstName": "Bart", 
+    "Id": 64, 
+    "IsWithdrawn": false, 
+    "LastName": "DE CLERCQ", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/52/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          51, 
+          46, 
+          49, 
+          43, 
+          19, 
+          17, 
+          15, 
+          15
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          59, 
+          59, 
+          114, 
+          239, 
+          355, 
+          591
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          35
+        ]
+      }
+    }
+  }, 
+  "65": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1988-04-07T00:00:00", 
+    "FirstName": "Gert", 
+    "Id": 65, 
+    "IsWithdrawn": true, 
+    "LastName": "DOCKX", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/53/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 1
+  }, 
+  "66": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1988-06-16T00:00:00", 
+    "FirstName": "Pim", 
+    "Id": 66, 
+    "IsWithdrawn": false, 
+    "LastName": "Ligthart", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/54/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          152, 
+          152, 
+          150, 
+          131, 
+          126, 
+          121, 
+          87, 
+          87
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          622, 
+          622, 
+          1615, 
+          3708, 
+          4458, 
+          5291
+        ]
+      }
+    }
+  }, 
+  "67": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1990-11-28T00:00:00", 
+    "FirstName": "Tosh", 
+    "Id": 67, 
+    "IsWithdrawn": false, 
+    "LastName": "VAN DER SANDE", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/55/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          140, 
+          144, 
+          134, 
+          127, 
+          131, 
+          125, 
+          120, 
+          105
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          421, 
+          606, 
+          1731, 
+          3824, 
+          5382, 
+          6215
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          3, 
+          3, 
+          3, 
+          3, 
+          3
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          6, 
+          10, 
+          15, 
+          27, 
+          28
+        ]
+      }, 
+      "youth": {
+        "position": [
+          25, 
+          24, 
+          24, 
+          23, 
+          22, 
+          21, 
+          21, 
+          19
+        ], 
+        "time_gap": [
+          256, 
+          266, 
+          421, 
+          606, 
+          1711, 
+          3789, 
+          5293, 
+          6122
+        ]
+      }
+    }
+  }, 
+  "68": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1991-10-05T00:00:00", 
+    "FirstName": "Tim", 
+    "Id": 68, 
+    "IsWithdrawn": true, 
+    "LastName": "WELLENS", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/56/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "LTS", 
+    "TeamName": "LOTTO-SOUDAL", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/10", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 7, 
+    "classification": {
+      "general": {
+        "position": [
+          89, 
+          61, 
+          50, 
+          45, 
+          47, 
+          60, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          59, 
+          59, 
+          576, 
+          2360, 
+          0, 
+          0
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          2, 
+          0
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          19, 
+          29, 
+          null
+        ]
+      }, 
+      "youth": {
+        "position": [
+          18, 
+          13, 
+          9, 
+          9, 
+          11, 
+          14, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          59, 
+          59, 
+          556, 
+          2325, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "7": {
+    "CountryCode": "LTU", 
+    "DateOfBirth": "1988-01-30T00:00:00", 
+    "FirstName": "Ramunas", 
+    "Id": 7, 
+    "IsWithdrawn": false, 
+    "LastName": "NAVARDAUSKAS", 
+    "Nationality": "Lithuania", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/7/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          21, 
+          9, 
+          26, 
+          96, 
+          128, 
+          122, 
+          118, 
+          115
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          43, 
+          407, 
+          1643, 
+          3736, 
+          5294, 
+          6686
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          10, 
+          10, 
+          10, 
+          10, 
+          10, 
+          10, 
+          10
+        ], 
+        "position": [
+          null, 
+          12, 
+          12, 
+          14, 
+          17, 
+          16, 
+          18, 
+          19
+        ]
+      }
+    }
+  }, 
+  "71": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1980-04-25T00:00:00", 
+    "FirstName": "Alejandro", 
+    "Id": 71, 
+    "IsWithdrawn": false, 
+    "LastName": "VALVERDE", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/57/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          8, 
+          43, 
+          9, 
+          9, 
+          12, 
+          3, 
+          6, 
+          9
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          5, 
+          5, 
+          88, 
+          30, 
+          100, 
+          192
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          9, 
+          9, 
+          9
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          6, 
+          13, 
+          15
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          10, 
+          10, 
+          10, 
+          10, 
+          10, 
+          20, 
+          20, 
+          20
+        ], 
+        "position": [
+          8, 
+          13, 
+          11, 
+          13, 
+          16, 
+          6, 
+          9, 
+          11
+        ]
+      }
+    }
+  }, 
+  "72": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1987-04-27T00:00:00", 
+    "FirstName": "Jonathan", 
+    "Id": 72, 
+    "IsWithdrawn": false, 
+    "LastName": "CASTROVIEJO NICOLAS", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/58/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          78, 
+          89, 
+          12, 
+          75, 
+          38, 
+          21, 
+          17, 
+          17
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          5, 
+          190, 
+          333, 
+          430, 
+          533, 
+          682
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          7, 
+          7
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          27, 
+          17, 
+          17
+        ]
+      }
+    }
+  }, 
+  "73": {
+    "CountryCode": "GBR", 
+    "DateOfBirth": "1988-03-10T00:00:00", 
+    "FirstName": "Alex", 
+    "Id": 73, 
+    "IsWithdrawn": true, 
+    "LastName": "DOWSETT", 
+    "Nationality": "United Kingdom", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/59/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 6, 
+    "classification": {
+      "general": {
+        "position": [
+          155, 
+          136, 
+          138, 
+          140, 
+          147, 
+          null, 
+          null, 
+          null
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          425, 
+          789, 
+          2025, 
+          0, 
+          0, 
+          0
+        ]
+      }
+    }
+  }, 
+  "74": {
+    "CountryCode": "FRA", 
+    "DateOfBirth": "1979-04-22T00:00:00", 
+    "FirstName": "John", 
+    "Id": 74, 
+    "IsWithdrawn": false, 
+    "LastName": "GADRET", 
+    "Nationality": "France", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/60/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          88, 
+          59, 
+          10, 
+          10, 
+          37, 
+          19, 
+          25, 
+          24
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          5, 
+          5, 
+          332, 
+          348, 
+          1667, 
+          1868
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          4, 
+          4, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          25, 
+          26, 
+          25
+        ]
+      }
+    }
+  }, 
+  "75": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1985-01-10T00:00:00", 
+    "FirstName": "Jos\u00e9", 
+    "Id": 75, 
+    "IsWithdrawn": true, 
+    "LastName": "HERRADA LOPEZ", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/61/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalReason": "abandon", 
+    "WithdrawalStageId": 8, 
+    "classification": {
+      "general": {
+        "position": [
+          62, 
+          87, 
+          82, 
+          70, 
+          33, 
+          28, 
+          20, 
+          null
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          142, 
+          142, 
+          245, 
+          605, 
+          1088, 
+          0
+        ]
+      }
+    }
+  }, 
+  "76": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1986-03-20T00:00:00", 
+    "FirstName": "Benat", 
+    "Id": 76, 
+    "IsWithdrawn": false, 
+    "LastName": "INTXAUSTI ELORRIAGA", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/62/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          95, 
+          83, 
+          11, 
+          11, 
+          2, 
+          6, 
+          3, 
+          4
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          5, 
+          5, 
+          17, 
+          57, 
+          45, 
+          81
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          1, 
+          1, 
+          5, 
+          5
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          17, 
+          26, 
+          21, 
+          21
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          8, 
+          9, 
+          17, 
+          18
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          18, 
+          17, 
+          11, 
+          12
+        ]
+      }
+    }
+  }, 
+  "77": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1987-07-10T00:00:00", 
+    "FirstName": "Gorka", 
+    "Id": 77, 
+    "IsWithdrawn": false, 
+    "LastName": "IZAGUIRRE", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/63/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          32, 
+          23, 
+          8, 
+          8, 
+          39, 
+          22, 
+          18, 
+          19
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          5, 
+          5, 
+          357, 
+          464, 
+          719, 
+          1249
+        ]
+      }
+    }
+  }, 
+  "78": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "1982-08-02T00:00:00", 
+    "FirstName": "Rory", 
+    "Id": 78, 
+    "IsWithdrawn": false, 
+    "LastName": "SUTHERLAND", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/64/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "MOV", 
+    "TeamName": "MOVISTAR TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/11", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          111, 
+          123, 
+          123, 
+          136, 
+          121, 
+          116, 
+          94, 
+          95
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          337, 
+          701, 
+          1588, 
+          3681, 
+          4680, 
+          5513
+        ]
+      }
+    }
+  }, 
+  "8": {
+    "CountryCode": "NED", 
+    "DateOfBirth": "1992-05-21T00:00:00", 
+    "FirstName": "Dylan", 
+    "Id": 8, 
+    "IsWithdrawn": false, 
+    "LastName": "VAN BAARLE", 
+    "Nationality": "Netherlands", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/8/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "TCG", 
+    "TeamName": "TEAM CANNONDALE-GARMIN", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/14", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          164, 
+          161, 
+          160, 
+          157, 
+          159, 
+          144, 
+          139, 
+          133
+        ], 
+        "time_gap": [
+          718, 
+          718, 
+          964, 
+          1328, 
+          2564, 
+          4657, 
+          6215, 
+          7607
+        ]
+      }, 
+      "youth": {
+        "position": [
+          30, 
+          29, 
+          29, 
+          29, 
+          30, 
+          27, 
+          26, 
+          25
+        ], 
+        "time_gap": [
+          706, 
+          716, 
+          964, 
+          1328, 
+          2544, 
+          4622, 
+          6126, 
+          7514
+        ]
+      }
+    }
+  }, 
+  "81": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1979-12-03T00:00:00", 
+    "FirstName": "Joaquin", 
+    "Id": 81, 
+    "IsWithdrawn": false, 
+    "LastName": "RODRIGUEZ OLIVER", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/65/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          93, 
+          96, 
+          58, 
+          51, 
+          17, 
+          13, 
+          10, 
+          8
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          65, 
+          65, 
+          106, 
+          165, 
+          166, 
+          186
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          2, 
+          4
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          32, 
+          23
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          0, 
+          6, 
+          12
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          null, 
+          22, 
+          15
+        ]
+      }
+    }
+  }, 
+  "82": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1980-08-15T00:00:00", 
+    "FirstName": "Gianpaolo", 
+    "Id": 82, 
+    "IsWithdrawn": false, 
+    "LastName": "CARUSO", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/66/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          71, 
+          90, 
+          131, 
+          117, 
+          75, 
+          85, 
+          76, 
+          65
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          390, 
+          575, 
+          985, 
+          3078, 
+          3805, 
+          4288
+        ]
+      }
+    }
+  }, 
+  "83": {
+    "CountryCode": "RUS", 
+    "DateOfBirth": "1986-04-21T00:00:00", 
+    "FirstName": "Vladimir", 
+    "Id": 83, 
+    "IsWithdrawn": false, 
+    "LastName": "ISAICHEV", 
+    "Nationality": "Russian Federation", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/67/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          151, 
+          150, 
+          141, 
+          143, 
+          152, 
+          139, 
+          137, 
+          130
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          459, 
+          823, 
+          2105, 
+          4198, 
+          5975, 
+          7367
+        ]
+      }
+    }
+  }, 
+  "84": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1982-02-28T00:00:00", 
+    "FirstName": "Alberto", 
+    "Id": 84, 
+    "IsWithdrawn": false, 
+    "LastName": "LOSADA", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/68/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          80, 
+          81, 
+          57, 
+          88, 
+          94, 
+          42, 
+          58, 
+          70
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          65, 
+          329, 
+          1216, 
+          1548, 
+          3106, 
+          4498
+        ]
+      }
+    }
+  }, 
+  "85": {
+    "CountryCode": "POR", 
+    "DateOfBirth": "1985-10-18T00:00:00", 
+    "FirstName": "Tiago", 
+    "Id": 85, 
+    "IsWithdrawn": false, 
+    "LastName": "MACHADO", 
+    "Nationality": "Portugal", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/69/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          41, 
+          26, 
+          56, 
+          50, 
+          32, 
+          59, 
+          48, 
+          41
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          65, 
+          65, 
+          239, 
+          2332, 
+          2815, 
+          3042
+        ]
+      }
+    }
+  }, 
+  "86": {
+    "CountryCode": "LAT", 
+    "DateOfBirth": "1987-04-15T00:00:00", 
+    "FirstName": "Gatis", 
+    "Id": 86, 
+    "IsWithdrawn": false, 
+    "LastName": "SMUKULIS", 
+    "Nationality": "Latvia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/70/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          133, 
+          133, 
+          153, 
+          152, 
+          146, 
+          136, 
+          126, 
+          116
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          646, 
+          1010, 
+          2018, 
+          4111, 
+          5576, 
+          6774
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1, 
+          1
+        ], 
+        "position": [
+          null, 
+          8, 
+          9, 
+          11, 
+          21, 
+          32, 
+          41, 
+          44
+        ]
+      }
+    }
+  }, 
+  "87": {
+    "CountryCode": "RUS", 
+    "DateOfBirth": "1989-05-07T00:00:00", 
+    "FirstName": "Alexei", 
+    "Id": 87, 
+    "IsWithdrawn": false, 
+    "LastName": "TSATEVICH", 
+    "Nationality": "Russian Federation", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/71/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          108, 
+          101, 
+          98, 
+          79, 
+          86, 
+          93, 
+          98, 
+          103
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          233, 
+          233, 
+          1120, 
+          3213, 
+          4771, 
+          6163
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          16, 
+          16, 
+          32, 
+          32, 
+          32, 
+          32, 
+          32
+        ], 
+        "position": [
+          null, 
+          8, 
+          7, 
+          5, 
+          5, 
+          3, 
+          3, 
+          5
+        ]
+      }
+    }
+  }, 
+  "88": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "1977-04-13T00:00:00", 
+    "FirstName": "Angel", 
+    "Id": 88, 
+    "IsWithdrawn": false, 
+    "LastName": "VICIOSO", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/72/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "KAT", 
+    "TeamName": "TEAM KATUSHA", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/17", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          128, 
+          130, 
+          99, 
+          122, 
+          132, 
+          126, 
+          121, 
+          117
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          233, 
+          597, 
+          1741, 
+          3834, 
+          5392, 
+          6784
+        ]
+      }
+    }
+  }, 
+  "91": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "1988-12-08T00:00:00", 
+    "FirstName": "Tejay", 
+    "Id": 91, 
+    "IsWithdrawn": false, 
+    "LastName": "VAN GARDEREN", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/73/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          69, 
+          66, 
+          2, 
+          2, 
+          1, 
+          5, 
+          1, 
+          2
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          0, 
+          0, 
+          0, 
+          42, 
+          0, 
+          10
+        ]
+      }, 
+      "mountain": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          3, 
+          3, 
+          11, 
+          15
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          12, 
+          18, 
+          9, 
+          7
+        ]
+      }, 
+      "sprint": {
+        "points": [
+          0, 
+          0, 
+          0, 
+          0, 
+          12, 
+          12, 
+          24, 
+          32
+        ], 
+        "position": [
+          null, 
+          null, 
+          null, 
+          null, 
+          12, 
+          12, 
+          7, 
+          4
+        ]
+      }
+    }
+  }, 
+  "92": {
+    "CountryCode": "AUS", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Rohan", 
+    "Id": 92, 
+    "IsWithdrawn": false, 
+    "LastName": "DENNIS", 
+    "Nationality": "Australia", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/74/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          72, 
+          62, 
+          1, 
+          1, 
+          48, 
+          39, 
+          35, 
+          34
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          0, 
+          0, 
+          627, 
+          1421, 
+          2325, 
+          2746
+        ]
+      }, 
+      "youth": {
+        "position": [
+          15, 
+          14, 
+          1, 
+          1, 
+          12, 
+          7, 
+          8, 
+          8
+        ], 
+        "time_gap": [
+          0, 
+          10, 
+          0, 
+          0, 
+          607, 
+          1386, 
+          2236, 
+          2653
+        ]
+      }
+    }
+  }, 
+  "93": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1987-01-13T00:00:00", 
+    "FirstName": "Daniel", 
+    "Id": 93, 
+    "IsWithdrawn": false, 
+    "LastName": "OSS", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/75/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          100, 
+          99, 
+          54, 
+          61, 
+          103, 
+          106, 
+          107, 
+          111
+        ], 
+        "time_gap": [
+          73, 
+          73, 
+          61, 
+          84, 
+          1320, 
+          3413, 
+          4971, 
+          6363
+        ]
+      }
+    }
+  }, 
+  "94": {
+    "CountryCode": "ITA", 
+    "DateOfBirth": "1979-10-30T00:00:00", 
+    "FirstName": "Manuel", 
+    "Id": 94, 
+    "IsWithdrawn": false, 
+    "LastName": "QUINZIATO", 
+    "Nationality": "Italy", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/76/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          67, 
+          48, 
+          100, 
+          123, 
+          130, 
+          124, 
+          119, 
+          102
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          235, 
+          599, 
+          1724, 
+          3817, 
+          5375, 
+          6035
+        ]
+      }
+    }
+  }, 
+  "95": {
+    "CountryCode": "USA", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Joey", 
+    "Id": 95, 
+    "IsWithdrawn": false, 
+    "LastName": "ROSSKOPF", 
+    "Nationality": "United States", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/77/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          109, 
+          115, 
+          84, 
+          112, 
+          115, 
+          112, 
+          106, 
+          110
+        ], 
+        "time_gap": [
+          180, 
+          180, 
+          168, 
+          532, 
+          1525, 
+          3618, 
+          4937, 
+          6329
+        ]
+      }
+    }
+  }, 
+  "96": {
+    "CountryCode": "ESP", 
+    "DateOfBirth": "0001-01-01T00:00:00", 
+    "FirstName": "Samuel", 
+    "Id": 96, 
+    "IsWithdrawn": false, 
+    "LastName": "SANCHEZ", 
+    "Nationality": "Spain", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/78/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          92, 
+          75, 
+          101, 
+          80, 
+          41, 
+          62, 
+          53, 
+          49
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          235, 
+          235, 
+          366, 
+          2459, 
+          2942, 
+          3363
+        ]
+      }
+    }
+  }, 
+  "97": {
+    "CountryCode": "SUI", 
+    "DateOfBirth": "1986-09-29T00:00:00", 
+    "FirstName": "Michael", 
+    "Id": 97, 
+    "IsWithdrawn": false, 
+    "LastName": "SCH\u00c4R", 
+    "Nationality": "Switzerland", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/79/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          53, 
+          55, 
+          112, 
+          115, 
+          93, 
+          99, 
+          91, 
+          86
+        ], 
+        "time_gap": [
+          12, 
+          12, 
+          249, 
+          558, 
+          1185, 
+          3278, 
+          4597, 
+          5257
+        ]
+      }
+    }
+  }, 
+  "98": {
+    "CountryCode": "BEL", 
+    "DateOfBirth": "1992-01-03T00:00:00", 
+    "FirstName": "Dylan", 
+    "Id": 98, 
+    "IsWithdrawn": false, 
+    "LastName": "TEUNS", 
+    "Nationality": "Belgium", 
+    "PhotoUri": "http://fep-api.dimensiondata.com/rider/80/photo", 
+    "StageId": 0, 
+    "Status": 83, 
+    "TeamCode": "BMC", 
+    "TeamName": "BMC RACING TEAM", 
+    "TeamUri": "http://fep-api.dimensiondata.com/teams/3", 
+    "WithdrawalStageId": 0, 
+    "classification": {
+      "general": {
+        "position": [
+          145, 
+          149, 
+          114, 
+          85, 
+          98, 
+          45, 
+          66, 
+          64
+        ], 
+        "time_gap": [
+          268, 
+          268, 
+          256, 
+          256, 
+          1249, 
+          2014, 
+          3570, 
+          4230
+        ]
+      }, 
+      "youth": {
+        "position": [
+          26, 
+          25, 
+          21, 
+          17, 
+          19, 
+          8, 
+          12, 
+          12
+        ], 
+        "time_gap": [
+          256, 
+          266, 
+          256, 
+          256, 
+          1229, 
+          1979, 
+          3481, 
+          4137
+        ]
+      }
+    }
+  }
+}
