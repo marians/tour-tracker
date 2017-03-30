@@ -55,6 +55,8 @@ def fetch_riders(race_id):
         for key in item.keys():
             if key in unwanted_keys:
                 del item[key]
+            if key == "FirstName":
+                item[key] = item[key].strip()
         riders[str(item["Id"])] = item
     return riders
 
@@ -184,4 +186,3 @@ if __name__ == "__main__":
 
     with open("data/race_%d.json" % args.race_id, "wb") as output:
         output.write(json.dumps(riders, indent=2, sort_keys=True))
-

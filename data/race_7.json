@@ -7189,7 +7189,7 @@
   "155": {
     "CountryCode": "AUS", 
     "DateOfBirth": "1984-03-12T00:00:00", 
-    "FirstName": "Nathan ", 
+    "FirstName": "Nathan", 
     "Id": 155, 
     "IsWithdrawn": false, 
     "LastName": "HAAS", 
@@ -24496,7 +24496,7 @@
   "98": {
     "CountryCode": "USA", 
     "DateOfBirth": "1986-06-01T00:00:00", 
-    "FirstName": "Kiel ", 
+    "FirstName": "Kiel", 
     "Id": 98, 
     "IsWithdrawn": false, 
     "LastName": "REIJNEN", 
