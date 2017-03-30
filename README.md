@@ -22,6 +22,9 @@ As result, a JSON file `data/race_<race_id>.json` will be written.
 
 Here are some race IDs that have worked so far:
 
+- 1: Critérium du Dauphiné 2015
+- 2: Tour de France 2015
+- 4: Amgen Tour of California 2016
 - 5: Critérium du Dauphiné 2016
 - 6: Tour de France 2016
 - 7: Vuelta a España 2016
