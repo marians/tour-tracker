@@ -55,8 +55,8 @@ def fetch_riders(race_id):
         for key in item.keys():
             if key in unwanted_keys:
                 del item[key]
-            if key == "FirstName":
-                item[key] = item[key].strip()
+            if key in ["FirstName", "LastName"]:
+                item[key] = item[key].strip()                
         riders[str(item["Id"])] = item
     return riders
 
