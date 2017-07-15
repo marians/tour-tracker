@@ -11,15 +11,15 @@ import csv
 import argparse
 
 # URI to the current stage
-CURRENT_STAGE = "http://fep-api.dimensiondata.com/race/{race_id}/stages/current"
+CURRENT_STAGE = "http://fep-api.dimensiondata.com/v2/race/{race_id}/stages/current"
 
 # URI to the list of stages
-STAGES_URI = "http://fep-api.dimensiondata.com/race/{race_id}/stages"
+STAGES_URI = "http://fep-api.dimensiondata.com/v2/race/{race_id}/stages"
 
 # URI to the list of riders
-RIDERS_URI = "http://fep-api.dimensiondata.com/rider/{race_id}"
+RIDERS_URI = "http://fep-api.dimensiondata.com/v2/rider/{race_id}"
 
-STAGE_URI_TEMPLATE = "http://fep-api.dimensiondata.com/stages/{stage_id}/classification/overall"
+STAGE_URI_TEMPLATE = "http://fep-api.dimensiondata.com/v2/stages/{stage_id}/classification/overall"
 
 classifications = {
     "General": ["position", "time_gap"],
@@ -56,7 +56,7 @@ def fetch_riders(race_id):
             if key in unwanted_keys:
                 del item[key]
             if key in ["FirstName", "LastName"]:
-                item[key] = item[key].strip()                
+                item[key] = item[key].strip()
         riders[str(item["Id"])] = item
     return riders
 
@@ -79,43 +79,58 @@ def time_to_seconds(string):
     h, m, s = string.split(":")
     return int(h) * 3600 + int(m) * 60 + int(s)
 
-def export_rider_csv(riders, num_stages):
+def export_rider_csv(race_id, riders, num_stages):
     """
     Creates several tabular CSV exports of riders and classements
     """
     export_formats = (
-        ("general", "rank"),
-        ("general", "time_delta"),
-        ("general", "time_absolute"),
-        ("sprint", "rank"),
+        ("general", "position"),
+        ("general", "time_gap"),
+        ("sprint", "position"),
         ("sprint", "points"),
-        ("mountain", "rank"),
+        ("mountain", "position"),
         ("mountain", "points"),
-        ("youth", "rank"),
+        ("youth", "position"),
     )
+
     for (classif, metric) in export_formats:
-        filename = "data/%s_%s.csv" % (classif, metric)
+
+        filename = "data/race%s_%s_%s.csv" % (race_id, classif, metric)
+
         with open(filename, 'wb') as csvfile:
+
             writer = csv.writer(csvfile, quoting=csv.QUOTE_MINIMAL)
             headers = ["id", "first_name", "last_name", "country", "birth_date", "team"]
+
             for n in range(num_stages):
                 headers.append("stage_%d" % (n+1))
             writer.writerow(headers)
+
             for rider_id in sorted(riders.keys()):
+
+                # some conditions make us skip the rider completely
+                if "classification" not in riders[rider_id]:
+                    continue
+                if classif not in riders[rider_id]["classification"]:
+                    continue
+
                 row = []
                 # rider base data
                 row.append(rider_id)
-                row.append(riders[rider_id]["first_name"].encode("utf8"))
-                row.append(riders[rider_id]["last_name"].encode("utf8"))
-                row.append(riders[rider_id]["country"])
-                row.append(riders[rider_id]["birth_date"])
-                row.append(riders[rider_id]["team"])
+                row.append(riders[rider_id]["FirstName"].encode("utf8"))
+                row.append(riders[rider_id]["LastName"].encode("utf8"))
+                row.append(riders[rider_id]["CountryCode"])
+                row.append(riders[rider_id]["DateOfBirth"])
+                row.append(riders[rider_id]["TeamName"])
 
-                for n in range(len(riders[rider_id]["classification"]["general"]["rank"])):
-                    # classification data
-                    val = riders[rider_id]["classification"][classif][metric][n]
-                    if val is None:
-                        val = ""
+                for n in range(num_stages):
+                    # when the rider has no position in the general classification,
+                    # we don't write any value into the field.
+                    val = ""
+                    if riders[rider_id]["classification"]["general"]["position"][n] is not None:
+                        val = riders[rider_id]["classification"][classif][metric][n]
+                        if val is None:
+                            val = ""
                     row.append(str(val))
 
                 writer.writerow(row)
@@ -146,6 +161,9 @@ if __name__ == "__main__":
         details = fetch_stage(stage["StageId"])
         if stage["StageNumber"] in ("R1", "R2", "R3"):
             print("Skipping stage '%s'" % stage["StageNumber"])
+            continue
+        if stage["StageType"] == "RestDay":
+            print("Skipping stage '%s' (RestDay)" % stage["StageNumber"])
             continue
 
         stagecount += 1
@@ -186,3 +204,5 @@ if __name__ == "__main__":
 
     with open("data/race_%d.json" % args.race_id, "wb") as output:
         output.write(json.dumps(riders, indent=2, sort_keys=True))
+
+    export_rider_csv(args.race_id, riders, stagecount+1)
