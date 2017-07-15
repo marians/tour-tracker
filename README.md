@@ -27,7 +27,7 @@ As result, several files will be written to the `data/` directory:
   - `race_<race_id>_mountain_position.csv`: Mountains classification (polka dots jersey, KOM) by position/rank
   - `race_<race_id>_mountain_position.csv`: Mountains classification by points
   - `race_<race_id>_sprint_position.csv`: Sprint classification (green jersey) by position/rank
-  - `race_<race_id>_sprint_points.csv`: Sprint classification (green jersey) by points
+  - `race_<race_id>_sprint_points.csv`: Sprint classification by points
   - `race_<race_id>_youth_position.csv`: Youth classification (white jersey, best young rider) by position/rank
 
 ## Race IDs and data
