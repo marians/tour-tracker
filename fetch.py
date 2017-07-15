@@ -95,7 +95,7 @@ def export_rider_csv(race_id, riders, num_stages):
 
     for (classif, metric) in export_formats:
 
-        filename = "data/race%s_%s_%s.csv" % (race_id, classif, metric)
+        filename = "data/race_%s_%s_%s.csv" % (race_id, classif, metric)
 
         with open(filename, 'wb') as csvfile:
 
